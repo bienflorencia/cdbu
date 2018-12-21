@@ -1,161 +1,125 @@
-baseurl = "/"
-title = "Biodiversidata"
-theme = "hugo-universal-theme"
-
-#themesDir = "../.."
+baseURL = "http://example.org/"
 languageCode = "en-us"
+title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
+theme = "meghna-hugo"
 
-# Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
-
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
-
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
-
-# Define the number of posts per page
-paginate = 10
-
+# Menu
 [menu]
-
-# Main menu
-
-[[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
     weight = 2
 
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    [[menu.nav]]
+    name = "Service"
+    URL = "services"
     weight = 3
 
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
+    [[menu.nav]]
+    name = "Portfolio"
+    URL = "portfolio"
     weight = 4
 
-# Top bar social links menu
+    [[menu.nav]]
+    name = "Team"
+    URL = "our-team"
+    weight = 5
 
-[[menu.topbar]]
-    weight = 1
-    name = "Twitter"
-    url = "http://twitter.com/biodiversidata"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
+    [[menu.nav]]
+    name = "Pricing"
+    URL = "pricing"
+    weight = 6
 
-[[menu.topbar]]
-    weight = 2
-    name = "Email"
-    url = "mailto:fgrattarola@lincoln.ac.uk"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
 
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
 [params]
-    viewMorePostLink = "/blog/"
-    author = "Florencia Grattarola"
-    defaultKeywords = ["biodiversidata", "open data", "Uruguay"]
-    defaultDescription = "Consorcio Uruguayo de Datos de Biodiversidad"
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
+custom_css = ["css/custom.css"]
 
-    # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    icon = "tf-ion-play"
+    heading = "Experience the new reality"
+    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    btn = true
+    btnText="Explore Us"
+    btnURL="#services"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "green"
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Great Design & Incredible Features"
+    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    btnURL = "#"
+    btnText = "Start a project with us"
 
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    #
-    # Enable the contact form by entering your Formspree.io email
-    email = "fgrattarola@lincoln.ac.uk"
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
 
-    about_us = "<p>Florencia Grattarola</p>"
-    copyright = "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
 
-    # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
 
-    logo = ""
-    logo_small = ""
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
     
-    address = """<p><strong>University of Lincoln</strong>
-        <br> Lincoln
-        <br> England
-        <strong>United Kingdom</strong>
-      </p>
-      """
-    latitude = "53.22876"
-    longitude = "-0.55625"
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team"
+        copyrightURL = "http://www.themefisher.com"
 
-[Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
-
-# Enable or disable top bar with social icons
-[params.topbar]
-    enable = false
-    text = """<p class="hidden-sm hidden-xs">Contact us on email@biodiversidata.org</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
-
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    categories = true
-    tags = true
-    search = true
-
-[params.carousel]
-    enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
-
-[params.features]
-    enable = true
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
-
-[params.testimonials]
-    enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
-
-[params.see_more]
-    enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
-
-[params.clients]
-    enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
-
-[params.recent_posts]
-    enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "#"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "#"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        url = "#"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "#"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "#"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-dribbble-outline"
+        url = "#"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-pinterest-outline"
+        url = "#"
