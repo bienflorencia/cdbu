@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Universal"
+title = "Biodiversidata"
 theme = "hugo-universal-theme"
 
 #themesDir = "../.."
@@ -89,12 +89,12 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    logo = ""
+    logo_small = ""
+    
     address = """<p><strong>University of Lincoln</strong>
         <br> Lincoln
         <br> England
-        <br>
         <strong>United Kingdom</strong>
       </p>
       """
