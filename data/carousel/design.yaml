@@ -1,10 +1,8 @@
-weight: 3
-title: "Design"
+weight: 4
+title: "Data Collection"
 description: >
   <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
+    <li>Collect the maximum possible amount of data from vertebrate, invertebrate and plant species,</li>
+    <li>use it to collaborative generate global impact scientific research and make the data available free and open.</li>
   </ul>
-image: "img/carousel/template-easy-customize.png"
+image: "img/carousel/planta.png"
