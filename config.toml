@@ -32,9 +32,9 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Team"
-    identifier = "team"
-    url  = "/team/"
+    name = "FAQ"
+    identifier = "faq"
+    url  = "/faq/"
     weight = 3
 
 [[menu.main]]
