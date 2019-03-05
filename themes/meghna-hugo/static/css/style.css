@@ -616,6 +616,7 @@ a:hover {
 }
 
 .hero-area .block .video-button {
+  background: #fff;
   color: #57cbcc;
   display: inline-block;
   height: 60px;
