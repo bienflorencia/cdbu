@@ -5,6 +5,6 @@ id = "contact"
 
 # We are here to help you
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Biodiversidata is a Uruguayan scientific association created in 2018 by Florencia Grattarola as part of her PhD project, funded by ANII and the University of Lincoln
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Please feel free to contact us.
