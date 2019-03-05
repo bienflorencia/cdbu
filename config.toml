@@ -44,12 +44,12 @@ theme = "meghna-hugo"
 [params]
 home= "Home"
 logo = "images/logo.png"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
+gmapAPI = ""
 custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
-    enable = true
+    enable = false
     bgImage = "images/slider/slider-01.jpg"
     icon = ""
     heading = ""
