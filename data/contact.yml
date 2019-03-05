@@ -2,8 +2,8 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : Biodiversidata is a Uruguayan scientific association created in 2018 by Florencia Grattarola as part of her PhD project, funded by ANII and the University of Lincoln.
-enable_maps : true
+content : Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay’s biodiversity knowledge. It was created in 2018 by Florencia Grattarola as part of her PhD project, funded by ANII and the University of Lincoln.
+enable_maps : false
 mapLatitude : -34.901112
 mapLongitude: -56.164532
 contactDetails :
@@ -13,5 +13,5 @@ contactDetails :
   - icon : tf-ion-ios-email-outline
     info : "fGrattarola@lincoln.ac.uk"
 
-  - icon : tf-ion-ios-email-outline
-    info : "fGrattarola@lincoln.ac.uk"    
+  - icon : tf-ion-ios-folder
+    info : "www.zenodo.com/biodiversidata"
