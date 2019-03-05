@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
+title = "Biodiversidata - Uruguayan Consortium of Biodiversity Data"
 theme = "meghna-hugo"
 
 # Menu
@@ -52,15 +52,15 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/slider-01.jpg"
     icon = ""
-    heading = "Biodiversidata"
-    content= "Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay’s biodiversity knowledge"
-    btn = true
+    heading = ""
+    content= ""
+    btn = false
     btnText="About"
     btnURL="#about"
 
     # call to action
     [params.cta]
-    enable = true
+    enable = false
     title = "Great Design & Incredible Features"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
@@ -68,7 +68,7 @@ custom_css = ["css/custom.css"]
 
     # counter
     [params.counter]
-    enable = true
+    enable = false
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Species of Amphibia"
@@ -97,29 +97,6 @@ custom_css = ["css/custom.css"]
 
         # social Icons
         [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "#"
-        
-        [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#@biodiversidata"
+        url = "https://twitter.com/biodiversidata"
         
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
-        
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "#"
-        
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
-        
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
-        
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"
