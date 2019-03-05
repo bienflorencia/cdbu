@@ -603,7 +603,6 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
   position: absolute;
   top: 0;
   right: 0;
