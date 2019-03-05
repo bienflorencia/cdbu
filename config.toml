@@ -50,13 +50,13 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    bgImage = "images/slider/slider-01.jpg"
+    icon = ""
+    heading = "Biodiversidata"
+    content= "Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay’s biodiversity knowledge"
     btn = true
-    btnText="Explore Us"
-    btnURL="#services"
+    btnText="About"
+    btnURL="#about"
 
     # call to action
     [params.cta]
@@ -71,29 +71,29 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
+        title = "Species of Amphibia"
         icon = "tf-ion-android-happy"
-        count = "320"
+        count = "51"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
+        title = "Species of Aves"
         icon = "tf-ion-archive"
-        count = "565"
+        count = "442"
 
         [[params.counter.counterItem]]
-        title = "Positive feedback"
+        title = "Species of Mammalia"
         icon = "tf-ion-thumbsup"
-        count = "95"
+        count = "115"
 
         [[params.counter.counterItem]]
-        title = "Cups of Coffee"
+        title = "Species of Reptilia"
         icon = "tf-ion-coffee"
-        count = "2500"
+        count = "68"
     
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "Biodiversidata"
+        copyrightURL = "www.flograttarola.com"
 
         # social Icons
         [[params.footer.socialIcon]]
@@ -102,7 +102,7 @@ custom_css = ["css/custom.css"]
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
+        url = "#@biodiversidata"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-google-outline"
