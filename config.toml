@@ -50,7 +50,7 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = false
-    bgImage = "images/slider/slider-01.png"
+    bgImage = "images/slider/slider-02.jpg"
     icon = ""
     heading = ""
     content= ""
