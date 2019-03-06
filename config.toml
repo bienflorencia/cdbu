@@ -49,8 +49,11 @@ custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
-    enable = true
-    bgImage = "images/slider/slider-01.jpg"
+    enable = false
+    bgImage = "images/slider/slider-01.png"
+    icon = ""
+    heading = ""
+    content= ""
     btn = false
     btnText="About"
     btnURL="#about"
