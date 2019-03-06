@@ -10,31 +10,14 @@ theme = "meghna-hugo"
     URL = "about"
     weight = 2
 
-    #[[menu.nav]]
-    #name = "Service"
-    #URL = "services"
-    #weight = 3
-
-    #[[menu.nav]]
-    #name = "Portfolio"
-    #URL = "portfolio"
-    #weight = 4
-
     [[menu.nav]]
     name = "Team"
     URL = "our-team"
-    #weight = 5
     weight = 3
-
-    #[[menu.nav]]
-    #name = "Pricing"
-    #URL = "pricing"
-    #weight = 6
 
     [[menu.nav]]
     name = "Blog"
     URL = "blog"
-    #weight = 7
     weight = 4
 
     [[menu.nav]]
