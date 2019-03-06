@@ -43,7 +43,7 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.png"
+logo = ""
 gmapAPI = ""
 custom_css = ["css/custom.css"]
 
@@ -92,7 +92,7 @@ custom_css = ["css/custom.css"]
     
     # footer
     [params.footer]
-        copyright = "Biodiversidata"
+        copyright = "Florencia Grattarola"
         copyrightURL = "www.flograttarola.com"
 
         # social Icons
