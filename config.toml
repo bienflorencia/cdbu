@@ -78,7 +78,7 @@ custom_css = ["css/custom.css"]
     # footer
     [params.footer]
         copyright = "Florencia Grattarola"
-        copyrightURL = "www.flograttarola.com"
+        copyrightURL = "https://flograttarola.com/"
 
         # social Icons
         [[params.footer.socialIcon]]
