@@ -232,7 +232,7 @@
   background-color: #18ce0f; }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-brown ~ .bootstrap-switch-default {
-  background-color: #f96332; }
+  background-color: #333333; }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-blue ~ .bootstrap-switch-default {
   background-color: #2CA8FF; }
@@ -2516,7 +2516,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #4d4d4dff !important; }
+  background-color: #333333 !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -2742,17 +2742,17 @@ img {
     border-bottom-color: #FFFFFF;
     top: -9px; }
   .popover.popover-primary {
-    background-color: #f96332; }
+    background-color: #333333; }
     .popover.popover-primary .popover-body {
       color: #FFFFFF; }
     .popover.popover-primary.bs-popover-right .arrow:after {
-      border-right-color: #f96332; }
+      border-right-color: #333333; }
     .popover.popover-primary.bs-popover-top .arrow:after {
-      border-top-color: #f96332; }
+      border-top-color: #333333; }
     .popover.popover-primary.bs-popover-bottom .arrow:after {
-      border-bottom-color: #f96332; }
+      border-bottom-color: #333333; }
     .popover.popover-primary.bs-popover-left .arrow:after {
-      border-left-color: #f96332; }
+      border-left-color: #333333; }
     .popover.popover-primary .popover-header {
       color: #FFFFFF;
       opacity: .6; }
@@ -3831,7 +3831,7 @@ Created using IcoMoon - icomoon.io
   top: 36%;
   left: 44%;
   font-size: 65px;
-  color: #f96332;
+  color: #333333;
   padding: 1px; }
 .section-nucleo-icons .icons-container i:nth-child(7) {
   top: 59%;
@@ -4032,15 +4032,15 @@ Created using IcoMoon - icomoon.io
     -ms-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
     transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1); }
     .sidebar-collapse .navbar-collapse:before {
-      background: #f96332;
+      background: #333333;
       /* For browsers that do not support gradients */
-      background: -webkit-linear-gradient(#f96332 0%, #000 80%);
+      background: -webkit-linear-gradient(#333333 0%, #000 80%);
       /* For Safari 5.1 to 6.0 */
-      background: -o-linear-gradient(#f96332 0%, #000 80%);
+      background: -o-linear-gradient(#333333 0%, #000 80%);
       /* For Opera 11.1 to 12.0 */
-      background: -moz-linear-gradient(#f96332 0%, #000 80%);
+      background: -moz-linear-gradient(#333333 0%, #000 80%);
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#f96332 0%, #000 80%);
+      background: linear-gradient(#333333 0%, #000 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
@@ -4704,15 +4704,15 @@ Created using IcoMoon - icomoon.io
     -ms-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
     transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1); }
     .burger-menu .navbar-collapse:before {
-      background: #f96332;
+      background: #333333;
       /* For browsers that do not support gradients */
-      background: -webkit-linear-gradient(#f96332 0%, #000 80%);
+      background: -webkit-linear-gradient(#333333 0%, #000 80%);
       /* For Safari 5.1 to 6.0 */
-      background: -o-linear-gradient(#f96332 0%, #000 80%);
+      background: -o-linear-gradient(#333333 0%, #000 80%);
       /* For Opera 11.1 to 12.0 */
-      background: -moz-linear-gradient(#f96332 0%, #000 80%);
+      background: -moz-linear-gradient(#333333 0%, #000 80%);
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#f96332 0%, #000 80%);
+      background: linear-gradient(#333333 0%, #000 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
