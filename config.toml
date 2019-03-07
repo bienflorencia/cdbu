@@ -5,7 +5,7 @@ title = "BIODIVERSIDATA"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-enableGitInfo = true
+#enableGitInfo = true
 publishDir = "../docs"
 themesDir = "../.."
 
