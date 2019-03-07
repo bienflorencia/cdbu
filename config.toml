@@ -6,8 +6,8 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 #enableGitInfo = true
-publishDir = "../docs"
-themesDir = "../.."
+publishDir = "public"
+themesDir = "/themes"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
