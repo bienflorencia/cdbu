@@ -3375,6 +3375,8 @@ Created using IcoMoon - icomoon.io
     min-height: 190px; }
   .card [data-background-color="orange"] {
     background-color: #f96332; }
+  .card [data-background-color="black"] {
+    background-color: #2c2c2c; }
   .card [data-background-color="red"] {
     background-color: #FF3636; }
   .card [data-background-color="yellow"] {
