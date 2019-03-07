@@ -5,9 +5,9 @@ layout: components
 ---
 
         <div class="page-header clear-filter" filter-color="orange">
-            <div class="page-header-image" data-parallax="true" style="background-image: url('../img/header.jpg');">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('../img/header-new.jpg');">
             </div>
-            <div class="container">
+            <!--<div class="container">
                 <div class="content-center brand">
                     <img class="n-logo" src="../img/now-logo.png" alt="">
                     <h1 class="h1-seo">Now UI Kit.</h1>
@@ -19,27 +19,53 @@ layout: components
                     </a>. Coded by
                     <a href="https://www.creative-tim.com" target="_blank">
                         <img src="../img/creative-tim-white-slim2.png" class="creative-tim-logo" />
-                    </a>.</h6> -->
-            </div>
+                    </a>.</h6> 
+            </div> -->
         </div>
         <div class="main">
-            <div class="section section-images">
+		    <div class="section" id="carousel">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="hero-images-container">
-                                <img src="../img/hero-image-1.png" alt="">
-                            </div>
-                            <div class="hero-images-container-1">
-                                <img src="../img/hero-image-2.png" alt="">
-                            </div>
-                            <div class="hero-images-container-2">
-                                <img src="../img/hero-image-3.png" alt="">
+                    <div class="row justify-content-center">
+                        <div class="col-8">
+                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                </ol>
+                                <div class="carousel-inner" role="listbox">
+                                    <div class="carousel-item active">
+                                        <img class="d-block" src="../img/bg1.jpg" alt="First slide">
+                                        <div class="carousel-caption d-none d-md-block">
+                                            <h5>Nature, United States</h5>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img class="d-block" src="../img/bg3.jpg" alt="Second slide">
+                                        <div class="carousel-caption d-none d-md-block">
+                                            <h5>Somewhere Beyond, United States</h5>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img class="d-block" src="../img/bg4.jpg" alt="Third slide">
+                                        <div class="carousel-caption d-none d-md-block">
+                                            <h5>Yellowstone National Park, United States</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                    <i class="now-ui-icons arrows-1_minimal-left"></i>
+                                </a>
+                                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                                    <i class="now-ui-icons arrows-1_minimal-right"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+		
+		
             <div class="section section-basic">
                 <div class="container">
                     <h3 class="title">Basic Elements</h3>
@@ -926,47 +952,7 @@ layout: components
                     </div>
                 </div>
             </div>
-            <div class="section" id="carousel">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-8">
-                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                                <ol class="carousel-indicators">
-                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                                </ol>
-                                <div class="carousel-inner" role="listbox">
-                                    <div class="carousel-item active">
-                                        <img class="d-block" src="../img/bg1.jpg" alt="First slide">
-                                        <div class="carousel-caption d-none d-md-block">
-                                            <h5>Nature, United States</h5>
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img class="d-block" src="../img/bg3.jpg" alt="Second slide">
-                                        <div class="carousel-caption d-none d-md-block">
-                                            <h5>Somewhere Beyond, United States</h5>
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img class="d-block" src="../img/bg4.jpg" alt="Third slide">
-                                        <div class="carousel-caption d-none d-md-block">
-                                            <h5>Yellowstone National Park, United States</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                                    <i class="now-ui-icons arrows-1_minimal-left"></i>
-                                </a>
-                                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                                    <i class="now-ui-icons arrows-1_minimal-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             <div class="section section-nucleo-icons">
                 <div class="container">
                     <div class="row">
