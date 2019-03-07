@@ -6,7 +6,7 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 #enableGitInfo = true
-publishDir = "public"
+publishDir = "/docs"
 themesDir = "/themes"
 
 [permalinks]
@@ -21,40 +21,40 @@ themesDir = "/themes"
     name = "Landing"
     url = "/landing/"
     pre = "<i class='now-ui-icons business_bank'></i>"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "Profile"
     url = "/profile/"
     pre = "<i class='now-ui-icons users_single-02'></i>"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Signup"
     pre = "<i class='now-ui-icons clothes_tie-bow'></i>"
     url = "/login/"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Dropdown"
     pre = "<i class='now-ui-icons ui-1_settings-gear-63'></i>"
     url = "#"
-    weight = 4
+    weight = 5
     identifier = "dropdown"
 [[menu.main]]
     name = "Template"
     pre = "<i class='now-ui-icons files_paper'></i>"
     url = "/template/"
-    weight = 1
+    weight = 6
     parent = "dropdown"
 [[menu.main]]
     name = "Posts"
     pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
     url = "/post/"
-    weight = 2
+    weight = 7
     parent = "dropdown"
 [[menu.main]]
     name = "Tags"
     pre = "<i class='now-ui-icons shopping_tag-content'></i>"
     url = "/tags/"
-    weight = 2
+    weight = 8
     parent = "dropdown"    
     
 [[menu.footer]]
