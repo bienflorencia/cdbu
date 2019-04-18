@@ -10,16 +10,33 @@ Biodiversidata is a Uruguayan scientific association created in 2018 by Florenci
 
 
 +  Contact form / Formulario de Contacto
-+  Funding-Supporters Logos / Logos de quienes financian-apoyan
+
+<form id="contact_form" action="" method="post">                            
+    <div>
+        <label for="contact_name">Name/Nombre</label>
+        <input id="contact_name" type="text" required aria-required="true" placeholder="Name/Nombre">
+    </div>
+    <div>
+        <label for="contact_email">Email</label>
+        <input id="contact_email" type="mail" name="email" required aria-required="true" placeholder="your@email.com">
+    </div>  
+    <div id="area_message">
+        <label for="contact_message">Message/Mensaje</label>
+        <textarea id="contact_message" type="mail" required aria-required="true" placeholder="Message/Mensaje"></textarea>
+        <input id="contact_btn" type="submit" value="Send/Enviar">
+    </div>
+</form>
+
 +  Social Media / Redes Sociales
 
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style a2a_follow">
+    <a class="a2a_button_twitter" data-a2a-follow="biodiversidata"></a>
+    <a class="a2a_button_flickr" data-a2a-follow="biodiversidata"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
 
-# Follow us on Twitter / *Seguinos en Twitter*
 
-<a class="twitter-timeline" data-width="600" data-height="600" data-theme="light" data-link-color="#5c4f7a" href="https://twitter.com/biodiversidata">Tweets by Biodiversidata</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
++  Funding-Supporters Logos / Logos de quienes financian-apoyan
 
-<br>
-
-# Follow us on Flickr / *Seguinos en Flickr*
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/gp/biodiversidata/Y12080" title="Primer Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"><img src="https://farm5.staticflickr.com/4830/45495316234_b6dc3465c4_z.jpg" width="640" height="425" alt="Primer Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+# University of Lincoln
+# ANII
