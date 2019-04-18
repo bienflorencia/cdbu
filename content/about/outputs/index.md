@@ -14,14 +14,5 @@ Biodiversidata generates a broad range of resources including publications, talk
 +  Datasets / *Conjuntos de Datos*
 
 
-
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet"
-  data-size="large"
-  data-text="See this!"
-  data-url="/"
-  data-hashtags="biodiversidata"
-  data-related="twitterapi,twitter">
-Tweet
-</a>
-
+<a class="twitter-timeline" data-width="600" data-height="600" data-theme="light" data-link-color="#5c4f7a" href="https://twitter.com/biodiversidata">Tweets by Biodiversidata</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
