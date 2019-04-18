@@ -23,7 +23,7 @@ pygmentsUseClasses = true
   homepage_button_link = '/docs'
   homepage_button_text = 'About'
   homepage_intro = 'Uruguayan Consortium of Biodiversity Data'
-  homepage_image = '/images/terminal.gif'
+  homepage_image = '/images/biodiversidata.gif'
 
   [params.homepage_meta_tags]
     meta_description = "Biodiversidata is funded by ANII"
