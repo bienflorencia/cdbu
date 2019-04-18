@@ -16,7 +16,9 @@ Biodiversidata is integrated by experts working in many national and internation
 ![Florencia](/images/flograttarola.png)
 
 
-# Florencia Grattarola
+## Florencia Grattarola
+### Principal investigator
+
 + School of Life Sciences, University of Lincoln, United Kingdom
 + PhD Student. Founder of Biodiversidata
 + Mail: [fGrattarola@lincoln.ac.uk](mailto:fGrattarola@lincoln.ac.uk)
@@ -25,31 +27,26 @@ Biodiversidata is integrated by experts working in many national and internation
 <a href="https://twitter.com/flograttarola" class="twitter-follow-button" data-show-count="false">Follow @flograttarola</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
 ![Pepe](/images/team-1.jpg)
 
----
 
-# Name / Nombre
+## Juan Pérez
+### Colaborator
+
 + Institution / Institución
 + Research Field & Group of Study / Área de Investigación y Grupo de Estudio
 + Contact (mail, web & twitter) / Contacto
-+ Mail: [fGrattarola@lincoln.ac.uk](mailto:fGrattarola@lincoln.ac.uk)
-+ Web: [flograttarola.com](https://flograttarola.com/)
++ Mail: [jperez@...com](mailto:jperez@...com)
 
 
+![Pepe](/images/team-1.jpg)
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  
-# Florencia Grattarola
-+ School of Life Sciences, University of Lincoln, United Kingdom
-+ PhD Student. Founder of Biodiversidata
-+ Mail: [fGrattarola@lincoln.ac.uk](mailto:fGrattarola@lincoln.ac.uk)
-+ Web: [flograttarola.com](https://flograttarola.com/)
-  
-  </div>
-  <div class="col-md-4" markdown="1">
-  Another thinh
-  ![Alt Text](../img/folder/blah.jpg)
-  </div>
-</div>
+
+## María Gómez
+### Colaborator
+
++ Institution / Institución
++ Research Field & Group of Study / Área de Investigación y Grupo de Estudio
++ Contact (mail, web & twitter) / Contacto
++ Mail: [mgomez@...com](mailto:mgomez@...com)
