@@ -4,9 +4,13 @@ date: 2019-02-11T19:27:37+10:00
 weight: 2
 ---
 
-Biodiversidata is integrated by 40 experts working in many national and international institutions, studying diverse biodiversity groups within different areas of knowledge / *Biodiversidata está integrada por 40 expertos/as que trabajan en varias instituciones nacionales e internacionales y estudian diversos grupos de biodiversidad en diferentes áreas de conocimiento.*
+Biodiversidata is integrated by experts working in many national and international institutions, studying diverse biodiversity groups within different areas of knowledge
 
-### Members
+*Biodiversidata está integrada por expertos/as que trabajan en varias instituciones nacionales e internacionales y estudian diversos grupos de biodiversidad en diferentes áreas de conocimiento.*
+
+
+
+# Members
 
 
 ![Florencia](/images/flograttarola.png)
@@ -20,7 +24,11 @@ Biodiversidata is integrated by 40 experts working in many national and internat
 {{< tweet 1066060705898598405 >}}
 
 
-======
+{{< figure src="/images/flograttarola.png" title="Florencia" >}}
+
+
+---
+
 
 + Name / Nombre
 + Institution / Institución
