@@ -14,8 +14,8 @@ pygmentsUseClasses = true
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "About"
+    url = "/about/"
     weight = 2
     
 [params]
@@ -31,7 +31,7 @@ pygmentsUseClasses = true
     meta_og_type = "website"
     meta_og_url = "https://biodiversidata.org"
     meta_og_image = "/images/biodiversidata-perfil.svg"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_description = "Biodiversidata"
     meta_twitter_card = ""
     meta_twitter_site = "@flograttarola"
     meta_twitter_creator = "@flograttarola"
