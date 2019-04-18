@@ -8,7 +8,7 @@ Biodiversidata is integrated by 40 experts working in many national and internat
 
 ### Members
 
-![Florencia](/images/flograttarola.jpg)
+![Florencia](/images/flograttarola.png)
 
 
 + Florencia Grattarola
@@ -17,6 +17,7 @@ Biodiversidata is integrated by 40 experts working in many national and internat
 + fGrattarola@gmail.com @flograttarola
 
 
+![Florencia](/images/flograttarola.jpg)
 + Name / Nombre
 + Institution / Institución
 + Research Field & Group of Study / Área de Investigación y Grupo de Estudio
