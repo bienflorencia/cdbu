@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
-themesDir = "../.."
+#themesDir = "../.."
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
