@@ -11,21 +11,31 @@ Biodiversidata is a Uruguayan scientific association created in 2018 by Florenci
 
 +  Contact form / Formulario de Contacto
 
-<form id="contact_form" action="" method="post">                            
-    <div>
-        <label for="contact_name">Name/Nombre</label>
-        <input id="contact_name" type="text" required aria-required="true" placeholder="Name/Nombre">
-    </div>
-    <div>
-        <label for="contact_email">Email</label>
-        <input id="contact_email" type="mail" name="email" required aria-required="true" placeholder="your@email.com">
-    </div>  
-    <div id="area_message">
-        <label for="contact_message">Message/Mensaje</label>
-        <textarea id="contact_message" type="mail" required aria-required="true" placeholder="Message/Mensaje"></textarea>
-        <input id="contact_btn" type="submit" value="Send/Enviar">
-    </div>
-</form>
+<div class="container">  
+  <form id="contact" action="" method="post">
+    <h3>Contact</h3>
+    <h4>Contact us today, and get reply with in 24 hours!</h4>
+    <fieldset>
+      <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+    </fieldset>
+    <fieldset>
+      <input placeholder="Your Email Address" type="email" tabindex="2" required>
+    </fieldset>
+    <fieldset>
+      <textarea placeholder="Type your Message Here...." tabindex="5" required></textarea>
+    </fieldset>
+    <fieldset>
+      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+    </fieldset>
+  </form>
+</div>
+ 
+  
+</div>
+
+
+<!-- www.123formbuilder.com script begins here --><script type="text/javascript" defer src="//www.123formbuilder.com/embed/4763623.js" data-role="form" data-default-width="650px"></script><!-- www.123formbuilder.com script ends here -->
+
 
 +  Social Media / Redes Sociales
 
