@@ -8,7 +8,7 @@ Biodiversidata is integrated by 40 experts working in many national and internat
 
 ### Members
 
-![Florencia](/images/flograttarola.jpg)
+![Florencia](/flograttarola.jpg)
 
 
 + Florencia Grattarola
