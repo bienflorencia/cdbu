@@ -15,14 +15,10 @@ Biodiversidata is a Uruguayan scientific association created in 2018 by Florenci
 
 
 # Follow us on Twitter / *Seguinos en Twitter*
-{{< tweet 1066060705898598405 >}}
 
+<a class="twitter-timeline" data-width="600" data-height="600" data-theme="light" data-link-color="#5c4f7a" href="https://twitter.com/biodiversidata">Tweets by Biodiversidata</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-
-
-
-
-
+<br>
 
 # Follow us on Flickr / *Seguinos en Flickr*
 
