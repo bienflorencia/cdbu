@@ -41,9 +41,9 @@ Collect the maximum possible amount of data from vertebrate, invertebrate and pl
 
 <div class="row">
   <div class="col-md-8" markdown="1">
-  <img height="600px" class="center-block" src="../img/folder/logo_ANII.jpg">
+  <img height="600px" class="center-block" src="/images/logo_ANII.jpg">
   </div>
   <div class="col-md-4" markdown="1">
-  <img height="600px" class="center-block" src="../images/logo_UoL.jpg">
+  <img height="600px" class="center-block" src="/images/logo_UoL.jpg">
   </div>
 </div>
