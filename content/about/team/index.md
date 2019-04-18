@@ -8,7 +8,8 @@ Biodiversidata is integrated by experts working in many national and internation
 
 *Biodiversidata está integrada por expertos/as que trabajan en varias instituciones nacionales e internacionales y estudian diversos grupos de biodiversidad en diferentes áreas de conocimiento.*
 
-
+<br>
+</br>
 
 ![Florencia](/images/flograttarola.png)
 
