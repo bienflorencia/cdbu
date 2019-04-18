@@ -15,19 +15,25 @@ Biodiversidata is integrated by experts working in many national and internation
 
 ![Florencia](/images/flograttarola.png)
 
-+ Florencia Grattarola
+---
+
+# Florencia Grattarola
 + School of Life Sciences, University of Lincoln, United Kingdom
 + PhD Student. Founder of Biodiversidata
-+ fGrattarola@gmail.com @flograttarola
++ Mail: [fGrattarola@lincoln.ac.uk](mailto:fGrattarola@lincoln.ac.uk)
++ Web: [flograttarola.com](https://flograttarola.com/)
+
+<a href="https://twitter.com/flograttarola" class="twitter-follow-button" data-show-count="false">Follow @flograttarola</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-{{< figure src="/images/flograttarola.png" title="Florencia" >}}
-
+![Pepe](/images/team-1.jpg)
 
 ---
 
-
-+ Name / Nombre
+# Name / Nombre
 + Institution / Institución
 + Research Field & Group of Study / Área de Investigación y Grupo de Estudio
 + Contact (mail, web & twitter) / Contacto
++ Mail: [fGrattarola@lincoln.ac.uk](mailto:fGrattarola@lincoln.ac.uk)
++ Web: [flograttarola.com](https://flograttarola.com/)
+
