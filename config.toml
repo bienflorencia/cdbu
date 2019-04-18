@@ -17,24 +17,24 @@ pygmentsUseClasses = true
     name = "Docs"
     url = "/docs/"
     weight = 2
-
+    
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_button_text = 'About'
+  homepage_intro = 'Uruguayan Consortium of Biodiversity Data'
   homepage_image = '/images/terminal.gif'
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "Biodiversidata is funded by ANII"
+    meta_og_title = "Biodiversidata"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_url = "https://biodiversidata.org"
+    meta_og_image = "/images/biodiversidata-perfil.svg"
     meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_card = ""
+    meta_twitter_site = "@flograttarola"
+    meta_twitter_creator = "@flograttarola"
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"
