@@ -6,12 +6,10 @@ weight: 2
 
 Biodiversidata is integrated by 40 experts working in many national and international institutions, studying diverse biodiversity groups within different areas of knowledge / *Biodiversidata está integrada por 40 expertos/as que trabajan en varias instituciones nacionales e internacionales y estudian diversos grupos de biodiversidad en diferentes áreas de conocimiento.*
 
-### Check Hugo Version
+### Members
 
+![Florencia](/images/flograttarola.jpg)
 
-{{< figure src="/images/flograttarola.jpg" title="Florencia Grattarola" >}}
-
-[Florencia](flograttarola.jpg)
 
 + Florencia Grattarola
 + School of Life Sciences, University of Lincoln, United Kingdom
