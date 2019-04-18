@@ -12,7 +12,7 @@ Biodiversidata is a Uruguayan scientific association created in 2018 by Florenci
 +  Contact form / Formulario de Contacto
 
 <div class="container">  
-  <form id="contact" action="" method="post">
+  <form id="contact" action="https://formspree.io/greendoors@gmail.com" method="POST">
     <h3>Contact</h3>
     <h4>Contact us today, and get reply with in 24 hours!</h4>
     <fieldset>
@@ -29,12 +29,6 @@ Biodiversidata is a Uruguayan scientific association created in 2018 by Florenci
     </fieldset>
   </form>
 </div>
- 
-  
-</div>
-
-
-<!-- www.123formbuilder.com script begins here --><script type="text/javascript" defer src="//www.123formbuilder.com/embed/4763623.js" data-role="form" data-default-width="650px"></script><!-- www.123formbuilder.com script ends here -->
 
 
 +  Social Media / Redes Sociales
