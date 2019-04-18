@@ -40,12 +40,16 @@ Biodiversidata is integrated by experts working in many national and internation
 
 <div class="row">
   <div class="col-md-8" markdown="1">
-  Some text.
-  More text
+  
+# Florencia Grattarola
++ School of Life Sciences, University of Lincoln, United Kingdom
++ PhD Student. Founder of Biodiversidata
++ Mail: [fGrattarola@lincoln.ac.uk](mailto:fGrattarola@lincoln.ac.uk)
++ Web: [flograttarola.com](https://flograttarola.com/)
+  
   </div>
   <div class="col-md-4" markdown="1">
   Another thinh
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  ![Alt Text](../img/folder/blah.jpg)
   </div>
 </div>
