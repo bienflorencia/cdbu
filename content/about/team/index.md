@@ -8,12 +8,15 @@ Biodiversidata is integrated by 40 experts working in many national and internat
 
 ### Check Hugo Version
 
+
+{{< figure src="/images/flograttarola.jpg" title="Florencia Grattarola" >}}
+
 [Florencia](flograttarola.jpg)
+
 + Florencia Grattarola
 + School of Life Sciences, University of Lincoln, United Kingdom
 + PhD Student. Founder of Biodiversidata
 + fGrattarola@gmail.com @flograttarola
-
 
 
 + Name / Nombre
