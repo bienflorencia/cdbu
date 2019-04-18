@@ -10,9 +10,6 @@ Biodiversidata is integrated by experts working in many national and internation
 
 
 
-# Members
-
-
 ![Florencia](/images/flograttarola.png)
 
 

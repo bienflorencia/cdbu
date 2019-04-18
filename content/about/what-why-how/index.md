@@ -35,9 +35,10 @@ Collect the maximum possible amount of data from vertebrate, invertebrate and pl
 
 *Recopilar la mayor cantidad posible de datos de especies de vertebrados, invertebrados y plantas, utilizarlos para generar investigaciones científicas de impacto global en colaboración y hacer que los datos estén disponibles de forma gratuita y abierta.*
 
+<br>
+</br>
 
-
-# Funding-Supporters
+# Funding - Supporters
 
 <div class="row">
   <div class="col-md-8" markdown="1">
