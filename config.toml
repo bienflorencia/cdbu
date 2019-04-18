@@ -20,8 +20,8 @@ pygmentsUseClasses = true
     
 [params]
   google_analytics_id=""
-  homepage_button_link = '/about'
-  homepage_button_text = 'About'
+  #homepage_button_link = '/about'
+  #homepage_button_text = 'About'
   homepage_intro = 'Uruguayan Consortium of Biodiversity Data'
   homepage_image = '/images/biodiversidata.gif'
 
