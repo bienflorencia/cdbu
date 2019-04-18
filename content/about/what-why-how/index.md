@@ -29,3 +29,9 @@ Uruguay is a peculiar area where multiple bioregions of South America geographic
 Collect the maximum possible amount of data from vertebrate, invertebrate and plant species, use it to collaborative generate global impact scientific research and make the data available free and open. 
 
 *Recopilar la mayor cantidad posible de datos de especies de vertebrados, invertebrados y plantas, utilizarlos para generar investigaciones científicas de impacto global en colaboración y hacer que los datos estén disponibles de forma gratuita y abierta.*
+
+
++  Funding-Supporters Logos / Logos de quienes financian-apoyan
+
+# University of Lincoln
+# ANII
