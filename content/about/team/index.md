@@ -21,9 +21,6 @@ Biodiversidata is integrated by experts working in many national and internation
 + fGrattarola@gmail.com @flograttarola
 
 
-{{< tweet 1066060705898598405 >}}
-
-
 {{< figure src="/images/flograttarola.png" title="Florencia" >}}
 
 
