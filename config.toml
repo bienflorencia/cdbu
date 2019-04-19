@@ -1,22 +1,41 @@
+baseURL = "/"
 languageCode = "en-us"
 title = "Biodiversidata"
-baseurl = "/"
-theme = "aerial"
+#themesDir = "../.."
+theme = "hugo-whisper-theme"
 
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+    
 [params]
-  name = "Biodiversidata"
-  about = "Uruguayan Consortium of Biodiversity Data (Coming soon)"
-  copyright = "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
-  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
-  favicon = "favicon.ico"
+  google_analytics_id=""
+  homepage_button_link = '/about'
+  homepage_button_text = 'About'
+  homepage_intro = 'Uruguayan Consortium of Biodiversity Data'
+  homepage_image = '/images/biodiversidata.gif'
 
-[[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "https://twitter.com/biodiversidata"
+  [params.homepage_meta_tags]
+    meta_description = "Biodiversidata is funded by ANII"
+    meta_og_title = "Biodiversidata"
+    meta_og_type = "website"
+    meta_og_url = "https://biodiversidata.org"
+    meta_og_image = "/images/biodiversidata-perfil.svg"
+    meta_og_description = "Biodiversidata"
+    meta_twitter_card = ""
+    meta_twitter_site = "@flograttarola"
+    meta_twitter_creator = "@flograttarola"
 
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "mailto:fGrattarola@lincoln.ac.uk"
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
