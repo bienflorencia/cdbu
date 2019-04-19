@@ -8,18 +8,13 @@ theme = "aerial"
   about = ""
   copyright = "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
+  bg_scroll = "not"
   favicon = "favicon.ico"
 
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
   link = "https://twitter.com/biodiversidata"
-
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "https://github.com/bienflorencia/rBiodiversidata"
 
 [[params.social]]
   medium = "Email"
