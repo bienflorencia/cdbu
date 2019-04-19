@@ -4,8 +4,8 @@ baseurl = "/"
 theme = "aerial"
 
 [params]
-  name = "Biodiversidata"
-  about = "Uruguayan Consortium of Biodiversity Data"
+  name = ""
+  about = ""
   copyright = "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "not"
