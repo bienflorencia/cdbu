@@ -3,7 +3,7 @@ title = "Data-Sharing en Uruguay"
 date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["danielPD", "florencia"]
+authors = ["Florencia Grattarola", "Daniel Pincheira-Donoso"]
 
 # Publication type.
 # Legend:
