@@ -151,10 +151,3 @@ sharing = true
   #   2: Algolia (https://www.algolia.com)
   engine = 1
 
-  # Configuration of Algolia search engine.
-  # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false

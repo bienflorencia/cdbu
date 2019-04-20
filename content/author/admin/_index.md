@@ -9,29 +9,22 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Principal Investigator"
+role = "Uruguayan Consortium of Biodiversity Data"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "University of Lincoln", url = "https://www.lincoln.ac.uk/home/" }, { name = "Agencia Nacional de Investigación e Innovación (ANII)", url = "http://www.anii.org.uy/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Uruguayan Consortium of Biodiversity Data"
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "fgrattarola@lincoln.ac.uk"
 
-# List (academic) interests or hobbies
-interests = [
-  "",
-  "",
-  ""
-]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Creator", "Colaborator"]
-
+user_groups = []
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
