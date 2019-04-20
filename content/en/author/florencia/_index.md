@@ -43,13 +43,13 @@ user_groups = ["Principal Investigator"]
   
 [[social]]
   icon = "fas"
-  icon_pack = "weebly"
+  icon_pack = "globe"
   link = "www.flograttarola.com"
 
 [[social]]
   icon = "twitter"
-  icon_pack = "fas"
-  link = "flograttarola"
+  icon_pack = "fab"
+  link = "https://twitter.com/flograttarola"
 
 +++
 
