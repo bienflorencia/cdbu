@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Biodiversidata"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -33,22 +33,7 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://zenodo.org/record/2642136"
-  label = "Get the Data"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "https://zenodo.org/record/2642136"
-  label = "View Documentation"
-
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a id="tetrapods-release" href="https://zenodo.org/record/2642136" data-repo="biodiversidata/v1">Latest release <!-- V --></a>'
 
 +++
 
-Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay's biodiversity knowledge.
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/bienflorencia/rBiodiversidata" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+The **Uruguayan Consortium of Biodiversity Data** is a collaborative association of experts with the aim of improving Uruguay's biodiversity knowledge.
