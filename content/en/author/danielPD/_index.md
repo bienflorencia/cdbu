@@ -42,8 +42,8 @@ user_groups = ["Colaborators"]
   link = "https://scholar.google.com/citations?hl=es&user=hd2lj1kAAAAJ"
   
 [[social]]
-  icon = "fas"
-  icon_pack = "weebly"
+  icon = "globe"
+  icon_pack = "fas"
   link = "http://selectiondynamics.weebly.com/daniel-pincheira-donoso.html"
 
 
