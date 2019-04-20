@@ -19,7 +19,7 @@ organizations = [ { name = "University of Lincoln", url = "https://www.lincoln.a
 bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "fgrattarola@lincoln.ac.uk"
+email = ""
 
 
 # Organizational groups that you belong to (for People widget)
