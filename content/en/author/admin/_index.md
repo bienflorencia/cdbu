@@ -58,5 +58,4 @@ user_groups = []
 
 +++
 
-Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay's biodiversity knowledge.
 
