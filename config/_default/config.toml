@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Biodiversidata"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -34,7 +34,7 @@ enableGitInfo = false
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true

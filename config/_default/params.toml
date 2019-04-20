@@ -63,9 +63,9 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  {icon = "twitter", icon_pack = "fab", name = "Follow Biodiversidata", link = "https://twitter.com/biodiversidata"},
+  {icon = "flickr", icon_pack = "fab", name = "See our Flickr albums", link = "https://www.flickr.com/photos/biodiversidata"},
+  {icon = "github", icon_pack = "fab", name = "See our R scripts on Github", link = "https://github.com/bienflorencia/rBiodiversidata"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]

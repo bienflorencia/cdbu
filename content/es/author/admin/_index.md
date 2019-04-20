@@ -13,7 +13,7 @@ role = "Uruguayan Consortium of Biodiversity Data"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Lincoln", url = "https://www.lincoln.ac.uk/home/" }, { name = "Agencia Nacional de Investigación e Innovación (ANII)", url = "http://www.anii.org.uy/" }]
+organizations = [ { name = "University of Lincoln", url = "https://www.lincoln.ac.uk/home/" }, { name = "Agencia Nacional de InvestigaciÃ³n e InnovaciÃ³n (ANII)", url = "http://www.anii.org.uy/" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
