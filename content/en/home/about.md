@@ -11,3 +11,5 @@ title = ""
 # This should be the username of a profile in your `content/author/` folder.
 author = "admin"
 +++
+
+Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay's biodiversity knowledge.
