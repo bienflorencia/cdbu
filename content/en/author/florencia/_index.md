@@ -42,8 +42,8 @@ user_groups = ["Principal Investigators"]
   link = "https://scholar.google.com/citations?user=9KCM81IAAAAJ&hl=es"
   
 [[social]]
-  icon = "browser"
-  icon_pack = "fas"
+  icon = "ai"
+  icon_pack = "weebly"
   link = "www.flograttarola.com"
 
 [[social]]
