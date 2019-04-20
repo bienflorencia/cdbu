@@ -3,7 +3,7 @@ title = "Data-Sharing en Uruguay"
 date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["florencia", "danielPD"]
+authors = ["Florencia Grattarola", "Daniel Pincheira-Donoso"]
 
 # Publication type.
 # Legend:
@@ -77,8 +77,5 @@ url_source = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-+++
 
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
++++
