@@ -13,7 +13,7 @@ role = "Coordinator"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{ name = "University of Lincoln", url = "https://www.lincoln.ac.uk/home/" }, { name = "Agencia Nacional de InvestigaciÃ³n e InnovaciÃ³n (ANII)", url = "http://www.anii.org.uy/" }]
+organizations = [{ name = "University of Lincoln", url = "https://www.lincoln.ac.uk/home/" }, { name = "Agencia Nacional de Investigación e Innovación (ANII)", url = "http://www.anii.org.uy/" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -35,11 +35,6 @@ user_groups = ["Principal Investigator"]
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:fgrattarola@lincoln.ac.uk"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=9KCM81IAAAAJ&hl=es"
   
 [[social]]
   icon = "globe"
@@ -50,6 +45,22 @@ user_groups = ["Principal Investigator"]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/flograttarola"
+  
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Florencia_Grattarola"
+
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=9KCM81IAAAAJ&hl=es"
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "//github.com/bienflorencia"
+
 
 +++
 
