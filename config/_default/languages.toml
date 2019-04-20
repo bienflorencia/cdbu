@@ -15,6 +15,6 @@
   [es.params]
     description = "Consorcio de Datos de Biodiversidad del Uruguay"
   [[es.menu.main]]
-    name = "Sobre"
+    name = "Inicio"
     url = "#about"
     weight = 1
