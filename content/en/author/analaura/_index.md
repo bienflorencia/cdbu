@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Daniel Pincheira-Donoso"
+name = "Ana Laura Rodales"
 
 # Username (this should match the folder name)
-authors = ["danielPD"]
+authors = ["analaura"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -13,7 +13,7 @@ role = "Colaborator"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Nottingham Trent University", url = "https://www.ntu.ac.uk/" }, {name="MacroBiodiversity Lab", url="http://selectiondynamics.weebly.com/"}]
+organizations = [ { name = "Programa para la Conservación de los Murciélagos de Uruguay", url = "https://sites.google.com/site/murcielagosuruguay/home" }, {name="Museo Nacional de Historia Natural", url="https://www.mnhn.gub.uy/"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -34,7 +34,7 @@ user_groups = ["Colaborators"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:daniel.pincheira-donoso@ntu.ac.uk"
+  link = "mailto:arodales@gmail.com"
 
 [[social]]
   icon = "google-scholar"
