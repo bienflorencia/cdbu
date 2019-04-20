@@ -51,6 +51,10 @@ user_groups = []
   icon_pack = "fab"
   link = "https://github.com/bienflorencia/rBiodiversidata"
 
+[[social]]
+  icon = "doi"
+  icon_pack = "ai"
+  link = "https://zenodo.org/record/2642136"
 
 +++
 
