@@ -2,10 +2,10 @@
 name = "Fira"
 
 # Optional Google font URL
-google_fonts = "Fira Sans:400,700"
+google_fonts = "Fira+Sans:400,700|Varela+Round"
 
 # Font families
-heading_font = "Fira Sans"
+heading_font = "Varela Round"
 body_font = "Fira Sans"
 nav_font = "Fira Sans"
 mono_font = "Fira Sans"
