@@ -50,5 +50,5 @@ user_groups = ["Colaborators"]
 +++
 
 
-Mis intereses acad?micos son variados e incluyen sistem?tica de mam?feros neotropicales, biogeograf?a pampeana y ecolog?a aplicada a conservaci?n de la biodiversidad, con ?nfasis en aves y mam?feros de Uruguay y de la regi?n. En el ?mbito profesional llevo adelante y asesoro estudios de relevamiento y monitoreo de biodiversidad de vertebrados tetr?podos, aplicados al manejo y conservaci?n de ambientes naturales y modificados con fines productivos. Actualmente realizo mi maestr?a en ecolog?a de vida silvestre en Estados Unidos, con el trabajo de campo y tesis en Uruguay, con comunidades de aves y forestaci?n.
+Mis intereses académicos son variados e incluyen sistemática de mamíferos neotropicales, biogeografía pampeana y ecolog?a aplicada a conservación de la biodiversidad, con énfasis en aves y mamíferos de Uruguay y de la región. En el ámbito profesional llevo adelante y asesoro estudios de relevamiento y monitoreo de biodiversidad de vertebrados tetrápodos, aplicados al manejo y conservación de ambientes naturales y modificados con fines productivos. Actualmente realizo mi maestría en ecología de vida silvestre en Estados Unidos, con el trabajo de campo y tesis en Uruguay, con comunidades de aves y forestación.
 
