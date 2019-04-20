@@ -2,7 +2,7 @@
 name = "Fira"
 
 # Optional Google font URL
-google_fonts = "Fira+Sans:400,700|Varela+Round"
+google_fonts = "Varela+Round:400,700|Fira+Sans:400,400italic,700|Fira+Sans"
 
 # Font families
 heading_font = "Varela Round"
