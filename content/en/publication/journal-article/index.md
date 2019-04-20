@@ -1,9 +1,9 @@
 +++
-title = "An example journal article"
+title = "Data-Sharing en Uruguay"
 date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = ["florencia", "danielPD"]
 
 # Publication type.
 # Legend:
@@ -19,14 +19,14 @@ authors = ["admin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Source Themes, 1*(1)"
+publication = "*Boletín de la Sociedad Zoológica del Uruguay, 27*(2)"
 publication_short = ""
 
 # Abstract.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+abstract = "Data-sharing has become a key issue in modern science, with numerous advantages for both data collectors and user. However, the practice of sharing data in Uruguay is still uncommon given there are no primary biodiversity datasets open or publicly available. The reasons behind such low frequency of data availability are still unknown. This study explores through an online survey the vision of data collectors and users analysing the reasons for both the reluctance to share data and the motivations for doing so. Over-all, scientists are willing to share their research data if they receive adequate credit for their effort and knowledge. In order to translate the will into an effective practice of open science, we must work on the incentives and motivation structures behind, communicate the importance and benefits of data openness and exchange, and provide technical tools and training on all aspects of data management and sharing. Importantly, data-sharing practice must result in the reinforce of a scientific collaboration culture that benefits not only researchers at the individual level, but the progress of knowledge itself. This work represents a valuable initial approach to the subject that proofs the importance that data availability has for researchers in Uruguay and the need for it to be mostly discussed."
 
 # Summary. An optional shortened abstract.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."
+summary = ""
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Source Themes"]
+tags = ["data-sharing"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -52,7 +52,7 @@ projects = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example"
+slides = ""
 
 # Links (optional).
 url_pdf = "http://arxiv.org/pdf/1512.04133v1"
