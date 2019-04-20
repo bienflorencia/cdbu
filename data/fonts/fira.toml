@@ -5,10 +5,10 @@ name = "Fira"
 google_fonts = "Fira+Sans:400,400italic,700"
 
 # Font families
-heading_font = "Fira+Sans"
-body_font = "Fira+Sans"
-nav_font = "Fira+Sans"
-mono_font = "Fira+Sans"
+heading_font = "Fira Sans"
+body_font = "Fira Sans"
+nav_font = "Fira Sans"
+mono_font = "Fira Sans"
 
 # Font size
 font_size = "20"
