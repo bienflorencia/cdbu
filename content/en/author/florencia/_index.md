@@ -19,7 +19,7 @@ organizations = [{ name = "University of Lincoln", url = "https://www.lincoln.ac
 bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "Founder of Biodiversidata"
 
 
 # Organizational groups that you belong to (for People widget)
