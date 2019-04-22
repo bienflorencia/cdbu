@@ -35,7 +35,7 @@
 
 [[main]]
   name = "FAQ"
-  url = "#faq"
+  url = "/faq/"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
