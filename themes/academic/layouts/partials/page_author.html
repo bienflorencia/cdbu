@@ -17,7 +17,7 @@
 {{ $person_page_path := (printf "/author/%s" $author_urlize) }}
 {{ $person_page := site.GetPage $person_page_path }}
 {{ with $person_page }}
-{{ $link := (site.GetPage (printf "/authors/%s" (urlize $v))).RelPermalink }}
+{{ $link := (site.GetPage (printf "/authors/%s" $author_urlize)).RelPermalink }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   {{ if and site.Params.gravatar .Params.email }}
