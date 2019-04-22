@@ -5,16 +5,16 @@ date = 2019-04-22T00:00:00  # Add today's date.
 type = "widget_page"  # Page type is a Widget Page
 +++
 
-+ [¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay?](#por-que)
++ [¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay?](#1)
 + [¿Cuál es el objetivo y cuáles son las ambiciones del Consorcio?](#2)
 + [¿Cómo se hará la gestión y administración de los datos?](#3)
-+ [¿Cuáles son los artículos a publicar en esta primer etapa?](#cuáles-son-los-artículos-a-publicar-en-esta-primer-etapa)
++ [¿Cuáles son los artículos a publicar en esta primer etapa?](#4)
 + [¿Por qué las publicaciones que se generen irán con el nombre de todos los integrantes del Consorcio?](#5)
 
 
 ----
 
-<a name="por-que"></a>
+<a name="1"></a>
 
 <br>
 ## ¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay? 
@@ -27,6 +27,8 @@ En los últimos años los avances en tecnologías de la información y política
 
 <a name="2"></a>
 
+<br>
+
 ## ¿Cuál es el objetivo y cuáles son las ambiciones del Consorcio? 
 
 Esta asociación colaborativa de especialistas que apunta a cubrir la totalidad de los organismos pluricelulares presentes en Uruguay, tiene como objetivo colaborar en la sistematización de datos y concentrar en un solo repositorio todo el conocimiento de la biodiversidad del Uruguay.
@@ -38,6 +40,8 @@ Existe un plan a corto plazo y una serie de ideas que se sucederán una vez exis
 ----
 
 <a name="3"></a>
+
+<br>
 
 ## ¿Cómo se hará la gestión y administración de los datos? 
 
@@ -68,7 +72,9 @@ Los datos reutilizables deben mantener su riqueza inicial. Por ejemplo, no debe 
 
 ----
 
-<a name="4"></a> 
+<a name="4"></a>
+
+<br>
 
 ## ¿Cuáles son los artículos a publicar en esta primer etapa? 
 
@@ -82,6 +88,8 @@ Para los tres primeros artículos propuestos se buscará:
 ----
 
 <a name="5"></a>
+
+<br>
 
 ## ¿Por qué las publicaciones que se generen irán con el nombre de todos los integrantes del Consorcio? 
 
