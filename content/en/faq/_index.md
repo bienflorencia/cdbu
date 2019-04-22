@@ -5,7 +5,7 @@ date = 2019-04-22T00:00:00  # Add today's date.
 type = "widget_page"  # Page type is a Widget Page
 +++
 
-+ [¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay?](#¿por-que-hacer-un-consorcio-de-datos-de-biodiversidad-en-uruguay?)
++ [¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay?](#por-que)
 + [¿Cuál es el objetivo y cuáles son las ambiciones del Consorcio?](#2)
 + [¿Cómo se hará la gestión y administración de los datos?](#3)
 + [¿Cuáles son los artículos a publicar en esta primer etapa?](#cuáles-son-los-artículos-a-publicar-en-esta-primer-etapa)
@@ -14,8 +14,9 @@ type = "widget_page"  # Page type is a Widget Page
 
 ----
 
-<a name="1"></a>
+<a name="por-que"></a>
 
+<br>
 ## ¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay? 
 
  La diversidad biológica se encuentra en un fuerte proceso de declive a nivel global y Uruguay no es ajeno a esa tendencia. En este marco resulta clave generar mecanismos para medir cuantitativamente la riqueza ambiental y sus cambios, para un amplio conjunto de utilidades científicas, educativas y políticas. La información científica de calidad es fundamental para la toma de decisiones ambientales sólidas. Sistematizar y analizar este tipo de conjuntos de datos y hacerlos disponibles de un modo innovador permitirá comprender mejor temas relevantes a nivel científico y social, como puede ser el cambio climático o las invasiones biológicas.
