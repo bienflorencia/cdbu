@@ -5,10 +5,10 @@ date = 2019-04-22T00:00:00  # Add today's date.
 type = "widget_page"  # Page type is a Widget Page
 +++
 
-+ [¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay?](#1)
++ [¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay?](#por-que-hacer-un-consorcio-de-datos-de-biodiversidad-en-uruguay)
 + [¿Cuál es el objetivo y cuáles son las ambiciones del Consorcio?](#2)
 + [¿Cómo se hará la gestión y administración de los datos?](#3)
-+ [¿Cuáles son los artículos a publicar en esta primer etapa?](#4)
++ [¿Cuáles son los artículos a publicar en esta primer etapa?](#Cuáles-son-los-artículos-a-publicar-en-esta-primer-etapa)
 + [¿Por qué las publicaciones que se generen irán con el nombre de todos los integrantes del Consorcio?](#5)
 
 
