@@ -11,7 +11,7 @@
 [es]
   languageCode = "es"
   contentDir = "content/es"
-  #title = "Chinese website title..."
+  title = "Biodiversidata"
   [es.params]
     description = "Consorcio de Datos de Biodiversidad del Uruguay"
   [[es.menu.main]]
