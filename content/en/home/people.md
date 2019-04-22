@@ -14,4 +14,4 @@ user_groups = ["Principal Investigator", "Colaborators"]
 
 +++
 
-# Biodiversidata is integrated by experts working in many national and international institutions, studying diverse biodiversity groups within different areas of knowledge.
+### Biodiversidata is integrated by experts working in many national and international institutions, studying diverse biodiversity groups within different areas of knowledge.
