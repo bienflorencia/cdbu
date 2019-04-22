@@ -5,6 +5,10 @@ date = 2019-04-22T00:00:00  # Add today's date.
 type = "widget_page"  # Page type is a Widget Page
 +++
 
+# Table of Contents
+1. [Example](#¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay?)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
 
 ## ¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay? 
 
