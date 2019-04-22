@@ -19,7 +19,7 @@ organizations = [ { name = "University of Lincoln", url = "https://www.lincoln.a
 bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "fgrattarola@lincoln.ac.uk"
+email = ""
 
 
 # Organizational groups that you belong to (for People widget)
@@ -51,8 +51,11 @@ user_groups = []
   icon_pack = "fab"
   link = "https://github.com/bienflorencia/rBiodiversidata"
 
+[[social]]
+  icon = "doi"
+  icon_pack = "ai"
+  link = "https://zenodo.org/record/2642136"
 
 +++
 
-Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay's biodiversity knowledge.
-
+Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay’s biodiversity knowledge.
