@@ -16,10 +16,10 @@ role = "Coordinator"
 organizations = [{ name = "University of Lincoln", url = "https://www.lincoln.ac.uk/home/" }, { name = "Agencia Nacional de Investigación e Innovación (ANII)", url = "http://www.anii.org.uy/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = ""
+bio = "Founder of Biodiversidata"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "Founder of Biodiversidata"
+email = ""
 
 
 # Organizational groups that you belong to (for People widget)
