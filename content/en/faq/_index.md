@@ -15,6 +15,7 @@ type = "widget_page"  # Page type is a Widget Page
 ----
 
 <a name="1"></a>
+
 ## ¿Por qué hacer un Consorcio de Datos de Biodiversidad en Uruguay? 
 
  La diversidad biológica se encuentra en un fuerte proceso de declive a nivel global y Uruguay no es ajeno a esa tendencia. En este marco resulta clave generar mecanismos para medir cuantitativamente la riqueza ambiental y sus cambios, para un amplio conjunto de utilidades científicas, educativas y políticas. La información científica de calidad es fundamental para la toma de decisiones ambientales sólidas. Sistematizar y analizar este tipo de conjuntos de datos y hacerlos disponibles de un modo innovador permitirá comprender mejor temas relevantes a nivel científico y social, como puede ser el cambio climático o las invasiones biológicas.
@@ -24,6 +25,7 @@ En los últimos años los avances en tecnologías de la información y política
 ----
 
 <a name="2"></a>
+
 ## ¿Cuál es el objetivo y cuáles son las ambiciones del Consorcio? 
 
 Esta asociación colaborativa de especialistas que apunta a cubrir la totalidad de los organismos pluricelulares presentes en Uruguay, tiene como objetivo colaborar en la sistematización de datos y concentrar en un solo repositorio todo el conocimiento de la biodiversidad del Uruguay.
@@ -35,6 +37,7 @@ Existe un plan a corto plazo y una serie de ideas que se sucederán una vez exis
 ----
 
 <a name="3"></a>
+
 ## ¿Cómo se hará la gestión y administración de los datos? 
 
 Previamente a publicar los artículos propuestos, el dataset generado a partir de los datos proporcionados por los integrantes del Consorcio será publicado como un Data Paper. Esto permite que el conjunto de datos tenga un DOI (Digital Object Identifier), es decir, un código que lo identifica online de forma permanente y estable.
@@ -65,6 +68,7 @@ Los datos reutilizables deben mantener su riqueza inicial. Por ejemplo, no debe 
 ----
 
 <a name="4"></a> 
+
 ## ¿Cuáles son los artículos a publicar en esta primer etapa? 
 
 Los 3 primeros artículos harán foco en los patrones de distribución de la riqueza biológica de vertebrados tetrápodos, invertebrados y plantas. El siguiente artículo consistirá en la evaluación de la congruencia entre las áreas identificadas para los tres grupos estudiados, a gran escala (espacial y taxonómica).
@@ -77,6 +81,7 @@ Para los tres primeros artículos propuestos se buscará:
 ----
 
 <a name="5"></a>
+
 ## ¿Por qué las publicaciones que se generen irán con el nombre de todos los integrantes del Consorcio? 
 
 El consorcio es intrínsecamente una iniciativa de colaboración e integración intelectual, con objetivos que trascienden los límites taxonómicos de los organismos en estudio.
