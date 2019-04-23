@@ -37,16 +37,30 @@ links = [{name = "Ver la Presentation", url = "/files/PresentationBiodiversidata
 
 +++
 
-## Los objetivos de la jornada fueron
+## Plan de la jornada 
 
-1. Presentar el Consorcio de Datos de Biodiversidad del Uruguay.  
-2. Mostrar los avances hasta el momento.  
-3. Exponer los principales acuerdos y compromisos por establecer. 
-4. Marcar una agenda de metas a futuro. 
+1. **Presentación Biodiversidata**  
+¿Cómo surge y cuáles son los objetivos?
 
-<br>
 
-La reunión se desarrolló en un diálogo continuo e interactivo. Quienes participaron se mostraron interesados/as en la temática y en seguir avanzando por el camino propuesto. Las próximas instancias entre miembros del Consorcio serán en modalidad virtual. Para esto se citarán reuniones con un tópico principal, un resumen del objetivo de la reunión, y cuál será la principal pregunta por responder. 
+2. **Avances hasta el momento**  
+Digitalización y sistematización de datos de tetrápodos, estándares y controles de calidad.  
+Presentación de los principales mapas de distribución de registros.  
+Presentación del primer artículo a ser enviado para su publicación.  
+
+
+3. **Acuerdos y compromisos**  
+Generación de publicaciones, criterios y autorías.  
+Gestión y administración de los datos. Licenciamiento de la información.  
+Generación de un Data-Paper con todos los conjuntos de datos colectados.  
+Identificación de nuevos actores y criterios para la integración del Consorcio.  
+
+
+4. **Agenda de metas a futuro**  
+Desarrollo de la plataforma web para permitir el acceso y manejo sencillo de los datos.  
+Digitalización de nuevos datos: invertebrados y plantas.  
+Propuestas de nuevos artículos y datos a publicar.  
+Desarrollo de partners estratégicos y posibilidades de colaboración internacional.  
 
 <br>
 

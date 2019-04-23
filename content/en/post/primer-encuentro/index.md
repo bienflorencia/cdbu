@@ -37,16 +37,30 @@ links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidat
 
 +++
 
-## The objectives of the meeting were:
+## Plan of the meeting
 
-1. Introduce the Uruguayan Consortium of Biodiversity Data.  
-2. Share the progress so far.  
-3. Present the main agreements and commitments to be established.. 
-4. Set an agenda of future goals. 
+1. ** Presentation of Biodiversidata**
+How does it originates and what are the objectives?
 
-<br>
 
-The meeting was developed in a continuous and interactive dialogue. Those who participated were interested in the subject and in continuing to advance along the proposed path. The next instances among members of the Consortium will be virtual. For this, meetings will be cited with a main topic, a summary of the objective of the meeting, and what will be the main question to answer.
+2. ** Progress so far **
+Digitization and systematisation of tetrapod data, standards and quality controls.
+Presentation of the main record's distribution maps.
+Presentation of the first article to be sent for publication.
+
+
+3. ** Agreements and commitments **
+Production of publications, criteria and authorships.
+Data management and administration. Licensing of data.
+Production of a Data-Paper with all the data sets collected.
+Identification of new actors and criteria for the integration of the Consortium.
+
+
+4. ** Agenda for future goals **
+Development of the web platform to allow easy access and management of the data.
+Digitisation of new data: invertebrates and plants.
+Proposals for new articles and data to be published.
+Development of strategic partners and possibilities for international collaboration.
 
 <br>
 
