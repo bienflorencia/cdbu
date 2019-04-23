@@ -43,20 +43,20 @@ links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidat
 How does it originates and what are the objectives?
 
 
-2. **Progress so far **
+2. **Progress so far**
 Digitization and systematisation of tetrapod data, standards and quality controls.
 Presentation of the main record's distribution maps.
 Presentation of the first article to be sent for publication.
 
 
-3. **Agreements and commitments **
+3. **Agreements and commitments**
 Production of publications, criteria and authorships.
 Data management and administration. Licensing of data.
 Production of a Data-Paper with all the data sets collected.
 Identification of new actors and criteria for the integration of the Consortium.
 
 
-4. **Agenda for future goals **
+4. **Agenda for future goals**
 Development of the web platform to allow easy access and management of the data.
 Digitisation of new data: invertebrates and plants.
 Proposals for new articles and data to be published.
