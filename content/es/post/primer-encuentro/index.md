@@ -20,7 +20,7 @@ summary = ""
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
-links = [{name = "Ver la Presentation", url = "/files/PresentationBiodiversidata.pdf"}]
+links = [{name = "Ver la Presentación", url = "/files/PresentationBiodiversidata.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
