@@ -38,7 +38,3 @@
     name = "Contacto"
     url = "#contact"
     weight = 60
-  [[es.menu.main]]
-    name = "FAQ"
-    url = "/faq/"
-    weight = 70

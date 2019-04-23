@@ -1,6 +1,6 @@
 +++
 title = "Data-sharing en Uruguay: la visión de los colectores y usuarios de datos"
-date = 2018-06-01T00:00:00
+date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin","florencia", "danielPD"]
@@ -55,7 +55,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -81,7 +81,4 @@ url_source = ""
 
 +++
 
-
-**Citation:**
-
-Grattarola & Pincheira-Donoso. (2019). Data-sharing en Uruguay: la visión de los colectores y usuarios de datos. Boletín de la Sociedad Zoológica del Uruguay 28(1).
+*Accepted for publication in next volume*

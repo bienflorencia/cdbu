@@ -18,7 +18,7 @@ height = "400px"
 
 [[item]]
   title = "¿Qué es Biodiversidata?"
-  content = "**Biodiversidata** es una asociación colaborativa de expertos con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay"
+  content = "Biodiversidata es una **asociación colaborativa** de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay."
   align = "left"
 
   overlay_color = "#55477e"  # An HTML color value.
@@ -27,7 +27,7 @@ height = "400px"
   
 [[item]]
   title = "¿Por qué construir un Consorcio de Datos en Uruguay?"
-  content = "Los patrones de biodiversidad en el país siguen siendo poco conocidos debido a serios vacíos geográficos de información. Esto representa un gran desafío para nuestra comprensión de la estructura de la biodiversidad y la capacidad para conservar la naturaleza."
+  content = "Los patrones de biodiversidad en el país siguen siendo poco conocidos debido a serios **vacíos geográficos de información**. Esto representa un gran desafío para nuestra comprensión de la estructura de la biodiversidad y la capacidad para conservar la naturaleza."
   align = "left"
 
   overlay_color = "#55477e"  # An HTML color value.
@@ -36,7 +36,7 @@ height = "400px"
 
 [[item]]
   title = "¿Cuál es el plan?"
-  content = "Recopilar la mayor cantidad posible de datos de especies de vertebrados, invertebrados y plantas, utilizarlos para generar investigaciones científicas de impacto global en colaboración y hacer que los datos estén disponibles de forma gratuita y abierta."
+  content = "Recopilar la mayor cantidad posible de datos de especies de **vertebrados, invertebrados y plantas**, utilizarlos para generar investigaciones científicas de impacto global en colaboración y hacer que los datos estén disponibles de forma gratuita y abierta."
   align = "left"
 
   overlay_color = "#55477e"  # An HTML color value.

@@ -24,7 +24,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Colaborators"]
+user_groups = [""]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -43,9 +43,3 @@ user_groups = ["Colaborators"]
 
 
 +++
-
-
-Licenciada en Ciencias Biológicas, orientación Zoología (UdelaR)
-Magister en Ciencias Biológicas, opción Ecología (UdelaR)
-Miembro del Bat Specialist Group (IUCN-SSC)
-

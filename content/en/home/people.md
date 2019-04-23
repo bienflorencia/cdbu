@@ -10,6 +10,6 @@ subtitle = "Biodiversidata is integrated by experts working in many national and
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Principal Investigator", "Colaborators"]
+user_groups = [""]
 
 +++

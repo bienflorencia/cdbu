@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Vertebrates"
+title = "Vertebrados"
 
 # Date this page was created.
 date = 2019-04-23T00:00:00
 
 # Project summary to display on homepage.
-summary = "A comprehensive database of tetrapod species occurrence records native from Uruguay."
+summary = "Base de datos completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,7 +44,6 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-We present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates and geographic location accuracy, available at Zenodo repository of Biodiversidata: link to the deposited dataset. The dataset thus provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded in Uruguay. The total number of records in the dataset is 69,390, including 680 species (51 amphibians, 444 birds, 117 mammals and 68 reptiles). This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date, and it represents the first open repository for the country.
+## Base de datos completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay.
 
-![tetrapods_maps](/img/tetrapods_map.png)
-
+Presentamos una base de datos completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay, con las últimas actualizaciones taxonómicas y la precisión de la ubicación geográfica. El conjunto de datos proporciona datos de biodiversidad primarios sobre las especies existentes de Anfibia, Reptilia, Aves y Mammalia registradas en Uruguay. El número total de registros en el conjunto de datos es de 69,390, incluidas 680 especies (51 anfibios, 444 aves, 117 mamíferos y 68 reptiles). Esta es la base de datos más grande y geográficamente y taxonómicamente más completa de tetrápodos uruguayos disponible hasta la fecha, y representa el primer repositorio abierto para el país.

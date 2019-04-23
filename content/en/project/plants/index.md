@@ -6,7 +6,7 @@ title = "Plants"
 date = 2019-04-22T00:00:00
 
 # Project summary to display on homepage.
-summary = "Database of plant species native from Uruguay (in progress)."
+summary = "Database of plant species native from Uruguay (**in process**)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,4 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-Under construction
+## Database of plant species native from Uruguay (**in process**).
+ 
+In April 2019 we began the development of the Plant species database. 
+Soon we will have news.

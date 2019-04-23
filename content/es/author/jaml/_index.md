@@ -24,7 +24,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Colaboradores/as"]
+user_groups = [""]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,9 +46,5 @@ user_groups = ["Colaboradores/as"]
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Juan_Andres_Martinez-Lanfranco"
 
-
 +++
-
-
-Mis intereses académicos son variados e incluyen sistemática de mamíferos neotropicales, biogeografía pampeana y ecolog?a aplicada a conservación de la biodiversidad, con énfasis en aves y mamíferos de Uruguay y de la región. En el ámbito profesional llevo adelante y asesoro estudios de relevamiento y monitoreo de biodiversidad de vertebrados tetrápodos, aplicados al manejo y conservación de ambientes naturales y modificados con fines productivos. Actualmente realizo mi maestría en ecología de vida silvestre en Estados Unidos, con el trabajo de campo y tesis en Uruguay, con comunidades de aves y forestación.
 

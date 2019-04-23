@@ -44,7 +44,5 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-We present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates and geographic location accuracy, available at Zenodo repository of Biodiversidata: link to the deposited dataset. The dataset thus provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded in Uruguay. The total number of records in the dataset is 69,390, including 680 species (51 amphibians, 444 birds, 117 mammals and 68 reptiles). This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date, and it represents the first open repository for the country.
-
-![tetrapods_maps](/img/tetrapods_map.png)
+We present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates and geographic location accuracy. The dataset provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded in Uruguay. The total number of records in the dataset is 69,390, including 680 species (51 amphibians, 444 birds, 117 mammals and 68 reptiles). This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date, and it represents the first open repository for the country.
 

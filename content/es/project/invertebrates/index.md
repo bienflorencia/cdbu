@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Invertebrates"
+title = "Invertebrados"
 
 # Date this page was created.
 date = 2019-04-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Database of invertebrate species native from Uruguay (in progress)."
+summary = "Base de datos de especies de invertebrados nativas del Uruguay (**no empezado**)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,4 +44,6 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-Under construction
+## Base de datos de especies de invertebrados nativas del Uruguay (**no empezado**).
+
+El desarrollo de esta base de datos comenzará en 2020.

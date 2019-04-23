@@ -1,6 +1,6 @@
 +++
 title = "Data-sharing en Uruguay: la visión de los colectores y usuarios de datos"
-date = 2018-06-01T00:00:00
+date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin","florencia", "danielPD"]
@@ -23,7 +23,7 @@ publication = "*Boletín de la Sociedad Zoológica del Uruguay, 28*(1)"
 publication_short = "Bol. Soc. Zool. Uruguay"
 
 # Abstract.
-abstract = "Data-sharing has become a key issue in modern science, with numerous advantages for both data collectors and user. However, the practice of sharing data in Uruguay is still uncommon given there are no primary biodiversity datasets open or publicly available. The reasons behind such low frequency of data availability are still unknown. This study explores through an online survey the vision of data collectors and users analysing the reasons for both the reluctance to share data and the motivations for doing so. Over-all, scientists are willing to share their research data if they receive adequate credit for their effort and knowledge. In order to translate the will into an effective practice of open science, we must work on the incentives and motivation structures behind, communicate the importance and benefits of data openness and exchange, and provide technical tools and training on all aspects of data management and sharing. Importantly, data-sharing practice must result in the reinforce of a scientific collaboration culture that benefits not only researchers at the individual level, but the progress of knowledge itself. This work represents a valuable initial approach to the subject that proofs the importance that data availability has for researchers in Uruguay and the need for it to be mostly discussed."
+abstract = "El intercambio de datos (data-sharing) se ha convertido en un protocolo clave en la ciencia moderna, con numerosas ventajas tanto para colectores como para usuarios. Sin embargo, en Uruguay permanece una práctica poco común dada la falta de fuentes de información sobre biodiversidad primaria abiertas y disponibles públicamente. Las causas detrás de esta baja disponibilización de datos son aún desconocidas. Este estudio explora la visión de los colectores y usuarios de datos analizando tanto las razones de la reticencia a compartirlos, como las motivaciones para hacerlo. En general, los investigadores están dispuestos a compartir sus datos si reciben crédito adecuado por su esfuerzo y conocimiento. Para poder traducir esta voluntad en una práctica efectiva de ciencia abierta, se debe trabajar en las estructuras de incentivo y motivaciones, comunicar la importancia y los beneficios de la apertura e intercambio, y brindar herramientas técnicas sobre cómo compartir. Importantemente, la práctica de data-sharing debe resultar en un fortalecimiento de la cultura de colaboración científica que no solo beneficia a los investigadores a nivel individual, sino al progreso del conocimiento en sí mismo. Este trabajo ofrece una exploración inicial al tema, que evidencia su importancia y la necesidad de que sea mayormente discutido."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -55,7 +55,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -81,7 +81,4 @@ url_source = ""
 
 +++
 
-
-**Citation:**
-
-Grattarola & Pincheira-Donoso. (2019). Data-sharing en Uruguay: la visión de los colectores y usuarios de datos. Boletín de la Sociedad Zoológica del Uruguay 28(1).
+*Aceptado para su publicación el el próximo volumen*

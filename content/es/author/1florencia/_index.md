@@ -3,7 +3,7 @@
 name = "Florencia Grattarola"
 
 # Username (this should match the folder name)
-authors = ["florencia"]
+authors = ["1florencia"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -24,7 +24,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Investigadora Principal"]
+user_groups = [""]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -64,10 +64,9 @@ user_groups = ["Investigadora Principal"]
 
 +++
 
-Florencia is a Uruguayan biologist studying a PhD in Life Sciences in Evolution and Ecology at the University of Lincoln (United Kingdom).
+Florencia es una bióloga uruguaya estudiando un PhD in Life Sciences en el área de Evolution and Ecology de la University of Lincoln (United Kingdom).
 
-During her academic development she has been interested and passionate about several areas, from molecular ecology, conservation genetics, genomics and bioinformatics, to environmental education, relationships society- nature, and open science and knowledge democratization.
+Durante su desarrollo académico ha estado vinculada a diversas áreas, desde ecología molecular, genética de la conservación, genómica y bioinformática, a educación ambiental y relaciones sociedad-naturaleza, hasta ciencia abierta y democratización del conocimiento.
 
-The focus of her current research is to quantify patterns and processes of biodiversity. She aims to develop an unprecedented field of knowledge for Uruguay by promoting a large, multidisciplinary collaborative initiative to collect all biodiversity data of Uruguay.
-
+El foco de su investigación actual es cuantificar patrones y procesos de la biodiversidad. Tiene como objetivo desarrollar un campo de conocimiento sin precedentes para Uruguay mediante la promoción de una gran iniciativa, multidisciplinaria y colaborativa, para colectar todos los datos de biodiversidad del Uruguay
 

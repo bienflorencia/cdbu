@@ -24,7 +24,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Colaboradores/as"]
+user_groups = [""]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -58,7 +58,3 @@ user_groups = ["Colaboradores/as"]
   
 
 +++
-
-
-Germán was born in Uruguay and obtained his degree in Human Biology (major in Epidemiology) from the Universidad de la República, in Montevideo, in 2010. After graduating, he took postgraduate courses in zoology, ecology, disease modelling, remote sensing and GIS in Uruguay, Argentina, Brazil and France. He is a founding member (and current president) of the Program for Bat Conservation in Uruguay (PCMU) and since 2013 is a member of the Bat Specialist Group at IUCN. In 2016 joined Montana State University on a Fulbright Scholarship to pursue his PhD, studying the ecology of vampire bat-borne rabies in Uruguay. 
-

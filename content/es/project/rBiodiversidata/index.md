@@ -6,7 +6,7 @@ title = "r Biodiversidata"
 date = 2019-04-20T00:00:00
 
 # Project summary to display on homepage.
-summary = "Useful R scripts for data cleaning & standardisation"
+summary = "Scripts de R útiles para la limpieza y estandarización de datos"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -27,18 +27,19 @@ external_link = ""
   
 +++
 
+## Scripts de R útiles para la limpieza y estandarización de datos
 
-This are the first R scripts used in the project for data standarization of primary biodiversity data, useful to:
-
-<br>
-
-1. Retrieving Conservation Status and Population Trend (IUCN).
-2. Checking Species Names.
-3. Retrieving Taxonomic Information for a Species.
+Estos son los primeros tres scripts de R utilizados en el projecto para la estandarización de datos primarios de biodiversidad, útiles para:
 
 <br>
 
-**Check the scripts, explanations and examples in our GitHub repository**
+1. Obtener el Status de Conservación y la Tendencia Poblacional (IUCN).
+2. Chequear los Nombres de las Especies.
+3. Obtener Información Taxonómica de las Especies.
+
+<br>
+
+**Encontrá los scripts, explicaciones y ejemplos en nuestro repositorio de GitHub**
 
 <div align="right">
 <a href="https://doi.org/10.5281/zenodo.2642136"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2642136.svg" alt="DOI"></a>
@@ -46,8 +47,3 @@ This are the first R scripts used in the project for data standarization of prim
 
 <div class="github-card" data-github="bienflorencia/rBiodiversidata" data-width="400" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
-
-
-
-
