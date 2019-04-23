@@ -37,16 +37,16 @@ links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidat
 
 +++
 
-## Los objetivos de la jornada fueron
+## The objectives of the meeting were:
 
-1. Presentar el Consorcio de Datos de Biodiversidad del Uruguay.  
-2. Mostrar los avances hasta el momento.  
-3. Exponer los principales acuerdos y compromisos por establecer. 
-4. Marcar una agenda de metas a futuro. 
+1. Introduce the Uruguayan Consortium of Biodiversity Data.  
+2. Share the progress so far.  
+3. Present the main agreements and commitments to be established.. 
+4. Set an agenda of future goals. 
 
 <br>
 
-La reunión se desarrolló en un diálogo continuo e interactivo. Quienes participaron se mostraron interesados/as en la temática y en seguir avanzando por el camino propuesto. Las próximas instancias entre miembros del Consorcio serán en modalidad virtual. Para esto se citarán reuniones con un tópico principal, un resumen del objetivo de la reunión, y cuál será la principal pregunta por responder. 
+The meeting was developed in a continuous and interactive dialogue. Those who participated were interested in the subject and in continuing to advance along the proposed path. The next instances among members of the Consortium will be virtual. For this, meetings will be cited with a main topic, a summary of the objective of the meeting, and what will be the main question to answer.
 
 <br>
 
