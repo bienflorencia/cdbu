@@ -16,5 +16,29 @@
     description = "Consorcio de Datos de Biodiversidad del Uruguay"
   [[es.menu.main]]
     name = "Inicio"
-    url = "#about"
-    weight = 1
+    url = "#hero"
+    weight = 10
+  [[es.menu.main]]
+    name = "Novedades"
+    url = "#posts"
+    weight = 20
+  [[es.menu.main]]
+    name = "Integrantes"
+    url = "#people"
+    weight = 30
+  [[es.menu.main]]
+    name = "Recursos"
+    url = "#projects"
+    weight = 40
+  [[es.menu.main]]
+    name = "Publicaciones"
+    url = "#publications"
+    weight = 50
+  [[es.menu.main]]
+    name = "Contacto"
+    url = "#contact"
+    weight = 60
+  [[es.menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 70

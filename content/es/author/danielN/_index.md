@@ -1,19 +1,19 @@
 +++
 # Display name
-name = "Daniel Pincheira-Donoso"
+name = "Daniel E. Naya"
 
 # Username (this should match the folder name)
-authors = ["danielPD"]
+authors = ["danielN"]
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Colaborator"
+role = "Colaborador"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Nottingham Trent University", url = "https://www.ntu.ac.uk/" }, {name="MacroBiodiversity Lab", url="http://selectiondynamics.weebly.com/"}]
+organizations = [ { name = "Facultad de Ciencias", url = "https://www.fcien.edu.uy/" }, {name="Universidad de la República", url="http://www.universidad.edu.uy/"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -24,7 +24,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Colaborators"]
+user_groups = ["Colaboradores/as"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -34,23 +34,30 @@ user_groups = ["Colaborators"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:daniel.pincheira-donoso@ntu.ac.uk"
+  link = "mailto:dnaya@fcien.edu.uy"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.com/citations?hl=es&user=hd2lj1kAAAAJ"
+  link = "https://scholar.google.com/citations?user=wuVKFgYAAAAJ&hl=es&oi=sra"
   
 [[social]]
   icon = "globe"
   icon_pack = "fas"
-  link = "http://selectiondynamics.weebly.com/daniel-pincheira-donoso.html"
+  link = "http://evolucion.fcien.edu.uy/daniel/daniel.html"
 
 
 +++
 
+**Area of interest**: Organism Ecology and Phenotpic Evolution.
 
-Senior Lecturer in Evolutionary Ecology at Nottingham Trent University (UK). His research combines a number of theoretical and empirical approaches, and encompasses a range of fields, including selection theory, the ecological and genetic basis of adaptive evolution and speciation, macroecology, climate change biology and more recently, conservation. He is the author of over 80 publications, has delivered lectures and talks at multiple institutions around the world, and his work and academic profile have received global media attention. Daniel has been elected Fellow of the Linnean Society of London (2017) and is a Fellow of the British Higher Education Academy (2012), and is the recipient of the 2018 Philippi Medal for Science awarded by the National Museum of Natural History of Chile.
+**Specific topics of interest**: Nutritional Ecology. Energetic. Life History. Phenotypic Plasticity and Integration. Macrophysiology. Individual specialization.
 
-Daniel received his PhD in Evolutionary Biology from the University of Exeter (2008) and previously a BSc in Biology from the Universidad de Concepcion in Chile (2003). Before joining NTU, he was a Lecturer (2012-2014) and subsequently Senior Lecturer in Evolutionary Biology (2014-2018) at the University of Lincoln (UK), and previously held three postdoctoral positions at the Centre for Ecology and Conservation at the University of Exeter (2008-2012).
+**Current investigation**:
+
+1. Digestive Ecology and Phenotypic Flexibility. Flexible adjustments in digestive traits to cope with changes in different environmental factors have been reported for all groups of vertebrate animals in dozens of opportunities. Within this context, we have been doing some narrative and quantitative reviews aimed to gather and organize the information collected on this topic for more than a century. In addition, we have used these reviews to design new experiments in order to address some issues for which empirical information was very scarce.
+
+2. General Patterns in Phenotypic Plasticity. Phenotypic plasticity has been identified as one of the main mechanism by which biological species could persist under the current scenario of global environmental change. However, the study of plasticity for different fitness-related traits in each extant species represents –at least in practice– an unattainable task. Consequently, the identification of general patterns in phenotypic plasticity could be fundamental to predict the effects of global environmental change on biological diversity. In this regard, in recent years we have conducted a series of studies aimed to assess the existence of general patterns in phenotypic plasticity at different spatial and temporal scales.
+
+3. Evolution of Energetic Metabolism. The origin of endothermy is considered one of the most fundamental issues in evolutionary physiology. However, the recent evolution of metabolic rates in endothermic animals represents a much less studied topic. Accordingly, during the last years we have generated a mechanistic model –the “obligatory” heat model– for the evolution of basal metabolic rate, which provides a good explanation for the evolutionary variation observed in this rate (at least in some taxa). Within this context, we are currently carrying out various studies to further evaluate the applicability of this model.
 

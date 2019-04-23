@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Uruguayan Consortium of Biodiversity Data"
+role = "Consorcio de Datos de Biodiversidad del Uruguay"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -58,4 +58,16 @@ user_groups = []
 
 +++
 
-Biodiversidata is the Uruguayan Consortium of Biodiversity Data, a collaborative association of experts with the aim of improving Uruguay’s biodiversity knowledge.
+### ¿Qué es Biodiversidata?
+
+Biodiversidata es una asociación colaborativa de expertos con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay
+<br>
+
+### ¿Por qué construir un Consorcio de Datos en Uruguay?
+
+Los patrones de biodiversidad en el país siguen siendo poco conocidos debido a serios vacíos geográficos de información. Esto representa un gran desafío para nuestra comprensión de la estructura de la biodiversidad y la capacidad para conservar la naturaleza.
+<br>
+
+### ¿Cuál es el plan?
+
+Recopilar la mayor cantidad posible de datos de especies de vertebrados, invertebrados y plantas, utilizarlos para generar investigaciones científicas de impacto global en colaboración y hacer que los datos estén disponibles de forma gratuita y abierta.

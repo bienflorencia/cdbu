@@ -9,7 +9,7 @@ authors = ["jaml"]
 superuser = false
 
 # Role/position
-role = "Colaborator"
+role = "Colaborador"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -24,7 +24,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Colaborators"]
+user_groups = ["Colaboradores/as"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

@@ -9,7 +9,7 @@ authors = ["analaura"]
 superuser = false
 
 # Role/position
-role = "Colaborator"
+role = "Colaboradora"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -24,7 +24,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Colaborators"]
+user_groups = ["Colaboradores/as"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -37,20 +37,15 @@ user_groups = ["Colaborators"]
   link = "mailto:arodales@gmail.com"
 
 [[social]]
-  icon = "google-scholar"
+  icon = "academia"
   icon_pack = "ai"
-  link = "https://scholar.google.com/citations?hl=es&user=hd2lj1kAAAAJ"
-  
-[[social]]
-  icon = "globe"
-  icon_pack = "fas"
-  link = "http://selectiondynamics.weebly.com/daniel-pincheira-donoso.html"
+  link = "https://gub.academia.edu/AnaRodalesMari%C3%B1o"
 
 
 +++
 
 
-Senior Lecturer in Evolutionary Ecology at Nottingham Trent University (UK). His research combines a number of theoretical and empirical approaches, and encompasses a range of fields, including selection theory, the ecological and genetic basis of adaptive evolution and speciation, macroecology, climate change biology and more recently, conservation. He is the author of over 80 publications, has delivered lectures and talks at multiple institutions around the world, and his work and academic profile have received global media attention. Daniel has been elected Fellow of the Linnean Society of London (2017) and is a Fellow of the British Higher Education Academy (2012), and is the recipient of the 2018 Philippi Medal for Science awarded by the National Museum of Natural History of Chile.
-
-Daniel received his PhD in Evolutionary Biology from the University of Exeter (2008) and previously a BSc in Biology from the Universidad de Concepcion in Chile (2003). Before joining NTU, he was a Lecturer (2012-2014) and subsequently Senior Lecturer in Evolutionary Biology (2014-2018) at the University of Lincoln (UK), and previously held three postdoctoral positions at the Centre for Ecology and Conservation at the University of Exeter (2008-2012).
+Licenciada en Ciencias Biológicas, orientación Zoología (UdelaR)
+Magister en Ciencias Biológicas, opción Ecología (UdelaR)
+Miembro del Bat Specialist Group (IUCN-SSC)
 

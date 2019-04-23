@@ -3,10 +3,10 @@
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Contact"
-subtitle = ""
+subtitle = "Biodiversidata is a Uruguayan scientific association created in 2018 by Florencia Grattarola as part of her PhD project, funded by ANII and the University of Lincoln."
 
 # Automatically link email and phone?
 autolink = true
@@ -17,4 +17,3 @@ autolink = true
 #   2: formspree.io
 email_form = 1
 +++
-

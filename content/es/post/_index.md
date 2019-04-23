@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "Novedades"
 
 # View.
 #   1 = List
