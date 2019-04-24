@@ -3,7 +3,7 @@ title = "Data-sharing en Uruguay: la visión de los colectores y usuarios de dat
 date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin","florencia", "danielPD"]
+authors = ["admin","1florencia", "2daniel"]
 
 # Publication type.
 # Legend:
