@@ -1,6 +1,6 @@
 +++
-title = "Biodiversidata"
-subtitle = "Una propuesta de ciencia abierta en Uruguay."
+title = "Nota en Creative Commons Uruguay"
+subtitle = "Biodiversidata: Una propuesta de ciencia abierta en Uruguay."
 
 date = 2016-04-20T00:00:00  # Schedule a publish date
 lastmod = 2019-04-17T00:00:00  # Date last modified
@@ -26,7 +26,7 @@ summary = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by [**JULANA NGO**](https://www.flickr.com/photos/julana/28496627541/in/album-72157659145111845/)"
+  caption = "Photo by [**JULANA**](https://www.flickr.com/photos/julana/28496627541/in/album-72157659145111845/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -62,4 +62,4 @@ El futuro de la biodiversidad en Uruguay (y el mundo) depende en gran medida de 
 
 <br>
 
-Esta nota fue publicada el 3 de setiembre de 2018 en la web de [Creative Commons Uruguay](http://www.creativecommons.uy/biodiversidata-una-propuesta-de-ciencia-abierta-en-uruguay/).
+Esta nota fue publicada el 3 de setiembre de 2018 en el sitio de [Creative Commons Uruguay](http://www.creativecommons.uy/biodiversidata-una-propuesta-de-ciencia-abierta-en-uruguay/).
