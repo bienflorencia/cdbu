@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Recursos"
-subtitle = "Biodiversidata genera una amplia gama de recursos que incluyen publicaciones, charlas, posters y presentaciones, derivados del trabajo de los/as integrantes del equipo."
+subtitle = "Biodiversidata genera una amplia gama de recursos que incluyen publicaciones, charlas, posters y presentaciones, derivados del trabajo de los y las integrantes del equipo."
 
 [content]
   # Page type to display. E.g. project.
@@ -32,10 +32,6 @@ subtitle = "Biodiversidata genera una amplia gama de recursos que incluyen publi
   [[content.filter_button]]
     name = "Scripts"
     tag = "scripts"
-    
-  [[content.filter_button]]
-    name = "Infographic"
-    tag = "infographic"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -45,7 +41,7 @@ subtitle = "Biodiversidata genera una amplia gama de recursos que incluyen publi
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
