@@ -45,6 +45,11 @@ url_code = ""
 +++
 
 
-## Database of invertebrate species native from Uruguay (**not started**).
+## Database of invertebrate species native from Uruguay
 
-The development of the invertebrates database will began in 2020.
+
+{{% alert warning %}}
+The development of the invertebrates database will start in 2020
+{{% /alert %}}
+
+

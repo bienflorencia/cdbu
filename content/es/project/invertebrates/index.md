@@ -44,6 +44,11 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-## Base de datos de especies de invertebrados nativas del Uruguay (**no empezado**).
+## Base de datos de especies de invertebrados nativas del Uruguay
 
-El desarrollo de esta base de datos comenzará en 2020.
+
+{{% alert warning %}}
+El desarrollo de la base de datos de invertebrados comenzará en 2020
+{{% /alert %}}
+
+
