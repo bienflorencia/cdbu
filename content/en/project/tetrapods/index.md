@@ -51,7 +51,7 @@ We hace created a comprehensive database of tetrapod occurrence records native f
 
 {{% alert note %}}
 **This work is currently under peer-review. We hope to have it available soon.**  
-{{% alert note %}}
+{{% /alert %}}
 
 
 The data fields that are being collected include the following terms:

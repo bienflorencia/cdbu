@@ -51,8 +51,7 @@ Hemos generado la base de datos más completa de registros de ocurrencia de espe
 
 {{% alert note %}}
 **Este trabajo está actualmente bajo revisión. Esperamos tenerlo disponible pronto.**  
-{{% alert note %}}
-  
+{{% /alert %}}
 
 Los campos de datos que se están colectando incluyen los siguientes términos:  
 

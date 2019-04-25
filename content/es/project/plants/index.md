@@ -37,13 +37,19 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by José Ignacio González Pansiera on [**Unsplash**](https://unsplash.com/photos/y8ii1w5DfC4)"
+  caption = "Photo by Guillermo Giovine on [**Unsplash**](https://unsplash.com/photos/kimjmLl5-N8)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-## Base de datos de especies de plantas nativas del Uruguay (**en construcción**). 
+## Base de datos de especies de plantas nativas del Uruguay 
   
-En abril de 2019 se comenzó con la construcción de la base de datos de Plantas. Próximamente tendremos novedades.
+En abril de 2019 se comenzó con la construcción de la base de datos de Plantas. 
+Próximamente tendremos novedades.  
+
+
+{{% alert warning %}}
+Under construction
+{{% /alert %}}

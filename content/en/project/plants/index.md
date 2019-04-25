@@ -37,14 +37,19 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by José Ignacio González Pansiera on [**Unsplash**](https://unsplash.com/photos/y8ii1w5DfC4)"
+  caption = "Photo by Guillermo Giovine on [**Unsplash**](https://unsplash.com/photos/kimjmLl5-N8)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-## Database of plant species native from Uruguay (**in process**).
+## Database of plant species native from Uruguay
  
 In April 2019 we began the development of the Plant species database. 
-Soon we will have news.
+Soon we will have news.  
+
+
+{{% alert warning %}}
+Under construction
+{{% /alert %}}
