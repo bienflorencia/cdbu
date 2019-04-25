@@ -32,20 +32,16 @@ subtitle = "Biodiversidata generates a broad range of resources including public
   [[content.filter_button]]
     name = "Scripts"
     tag = "scripts"
-    
-  [[content.filter_button]]
-    name = "Infographic"
-    tag = "infographic"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

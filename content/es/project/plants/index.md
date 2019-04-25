@@ -51,5 +51,5 @@ Próximamente tendremos novedades.
 
 
 {{% alert warning %}}
-Under construction
+En construcción
 {{% /alert %}}
