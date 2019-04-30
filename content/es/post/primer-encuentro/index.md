@@ -37,12 +37,14 @@ links = [{name = "Ver la Presentación", url = "/files/PresentationBiodiversidat
 
 +++
 
-La reunión tuvo lugar el 5 de octubre de 2018 en la Facultad de Ciencias de la Universidad de la República en Montevideo, Uruguay. Fue la primer reunión de todos los miembros de Biodiversidata y marcó oficialmente la creación de la asociación.
+La reunión tuvo lugar en la Facultad de Ciencias de la Universidad de la República en Montevideo, Uruguay. Fue la primer reunión de todos los miembros de **Biodiversidata** y marcó oficialmente la creación de la asociación. 
 
-Los participantes acordaron que esta fue una instancia fundamental para comprender la relevancia de la iniciativa, discutir sobre la urgencia de la apertura de datos de ciencia en Uruguay, los objetivos de la nueva asociación y priorizar la agenda futura de la organización. La posibilidad de una reunión presencial permitió conocernos entre los diferentes integrantes y discutir en confianza los aspectos que nos reunieron.
+Los participantes acordaron que esta fue una instancia fundamental para comprender la relevancia de la iniciativa, discutir sobre la urgencia de la apertura de datos de ciencia en Uruguay, los objetivos de la nueva asociación y priorizar la agenda futura de la organización. 
+
+La posibilidad de una reunión presencial permitió conocernos entre los diferentes integrantes y discutir en confianza los aspectos que nos reunieron.
 
 
-## Plan de la Jornada 
+## Plan de la Jornada  
 
 1. **Presentación Biodiversidata**  
 ¿Cómo surge y cuáles son los objetivos?
@@ -67,7 +69,6 @@ Digitalización de nuevos datos: invertebrados y plantas.
 Propuestas de nuevos artículos y datos a publicar.  
 Desarrollo de partners estratégicos y posibilidades de colaboración internacional.  
 
-<br>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/gp/biodiversidata/Y12080" title="Primer Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"><img src="https://farm5.staticflickr.com/4830/45495316234_b6dc3465c4_z.jpg" width="640" height="425" alt="Primer Encuentro del Consorcio de Datos de Biodiversidad del Uruguay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
