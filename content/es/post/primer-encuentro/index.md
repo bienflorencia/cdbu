@@ -41,13 +41,14 @@ La reunión tuvo lugar en la Facultad de Ciencias de la Universidad de la Repúb
 
 Los participantes acordaron que esta fue una instancia fundamental para comprender la relevancia de la iniciativa, discutir sobre la urgencia de la apertura de datos de ciencia en Uruguay, los objetivos de la nueva asociación y priorizar la agenda futura de la organización. 
 
-La posibilidad de una reunión presencial permitió conocernos entre los diferentes integrantes y discutir en confianza los aspectos que nos reunieron.
+La posibilidad de una reunión presencial nos permitió conocernos entre los diferentes integrantes y discutir en confianza sobre los aspectos que nos reunieron.  
 
 
 ## Plan de la Jornada  
 
+
 1. **Presentación Biodiversidata**  
-¿Cómo surge y cuáles son los objetivos?
+¿Cómo surge y cuáles son los objetivos?  
 
 
 2. **Avances hasta el momento**  

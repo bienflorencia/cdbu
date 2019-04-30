@@ -46,8 +46,9 @@ The possibility of a face-to-face meeting allowed us to get to know each other a
 
 ## Sessions  
 
+
 1. **Presentation of Biodiversidata**  
-How does it originates and what are the objectives?
+How does it originates and what are the objectives?  
 
 
 2. **Progress so far**  
