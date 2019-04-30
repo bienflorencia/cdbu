@@ -37,7 +37,12 @@ links = [{name = "Ver la Presentación", url = "/files/PresentationBiodiversidat
 
 +++
 
-## Plan de la jornada 
+La reunión tuvo lugar el 5 de octubre de 2018 en la Facultad de Ciencias de la Universidad de la República en Montevideo, Uruguay. Fue la primer reunión de todos los miembros de Biodiversidata y marcó oficialmente la creación de la asociación.
+
+Los participantes acordaron que esta fue una instancia fundamental para comprender la relevancia de la iniciativa, discutir sobre la urgencia de la apertura de datos de ciencia en Uruguay, los objetivos de la nueva asociación y priorizar la agenda futura de la organización. La posibilidad de una reunión presencial permitió conocernos entre los diferentes integrantes y discutir en confianza los aspectos que nos reunieron.
+
+
+## Plan de la Jornada 
 
 1. **Presentación Biodiversidata**  
 ¿Cómo surge y cuáles son los objetivos?

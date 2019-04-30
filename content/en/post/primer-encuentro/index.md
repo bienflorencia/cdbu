@@ -37,7 +37,12 @@ links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidat
 
 +++
 
-## Plan of the meeting
+The meeting took place on the 5th of October of 2018 in the School of Science of the Universidad de la República in Montevideo, Uruguay. It was the frist assembly of all members of Biodiversidata and setted the landmark of the creation of the association. 
+
+Participants agreed this was a fundamental instance to understand the relevance of the initiative, discuss about the urgency of data openness in science in Uruguay, the aims of the new association and prioritize the future agenda of the organization. The possibility of a face-to-face meeting allowed us to get to know each other among the different members and discuss in confidence the aspects that brought us together.
+
+
+## Sessions 
 
 1. **Presentation of Biodiversidata**  
 How does it originates and what are the objectives?
