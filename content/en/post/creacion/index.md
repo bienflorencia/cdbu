@@ -1,5 +1,5 @@
 +++
-title = "Note in Creative Commons Uruguay"
+title = "Post in Creative Commons Uruguay"
 subtitle = "Biodiversidata: An open science iniciative in Uruguay."
 
 date = 2016-04-20T00:00:00  # Schedule a publish date
@@ -65,4 +65,4 @@ El futuro de la biodiversidad en Uruguay (y el mundo) depende en gran medida de 
 
 <br>
 
-Esta nota fue publicada el 3 de setiembre de 2018 en el sitio de [Creative Commons Uruguay](http://www.creativecommons.uy/biodiversidata-una-propuesta-de-ciencia-abierta-en-uruguay/).
+This post was published on 3rd of September of 2018 on [Creative Commons Uruguay](http://www.creativecommons.uy/biodiversidata-una-propuesta-de-ciencia-abierta-en-uruguay/) website.
