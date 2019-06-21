@@ -46,43 +46,28 @@ url_code = ""
 
 ## Base de datos completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay.  
 
-Hemos generado la base de datos más completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay, con las últimas actualizaciones taxonómicas y georreferenciación de las localidades de colecta. El conjunto de datos proporciona datos de biodiversidad primarios sobre las especies existentes de Anfibia, Reptilia, Aves y Mammalia registradas en Uruguay. El número total de registros en el conjunto de datos es de 69,390, incluidas 680 especies (51 anfibios, 444 aves, 117 mamíferos y 68 reptiles). Esta es la base de datos más grande y geográficamente y taxonómicamente más completa de tetrápodos uruguayos disponible hasta la fecha, y representa el primer repositorio abierto para el país.  
+Presentamos una base de datos completa de registros de ocurrencia de tetrápodos nativos de Uruguay, con las últimas actualizaciones taxonómicas. La base de datos proporciona datos primarios de biodiversidad sobre las especies existentes de anfibios, reptiles, aves y mamíferos registradas en el país. El número total de registros recopilados es de 69,380, abarcando 673 especies. Esta es la base de datos más grande y geográficamente y taxonómicamente más completa de tetrápodos uruguayos disponible hasta la fecha y representa el primer repositorio abierto para el país.  
+<br>
+
+|   | Número de Registros de Presencia | Número de Especies | Registros sin Fecha (%) | Registros de los últimos 30 años (%) |
+|----------|----------------------------------|--------------------|-------------------------|--------------------------------------|
+| Amphibia | 2,530 | 51 | 1,780 (70.4) | 683 (27.0) |
+| Reptilia | 2,308 | 68 | 1,999 (86.6) | 224 (9.7) |
+| Aves | 60,627 | 437 | 131 (0.2) | 60,308 (99.5) |
+| Mammalia | 3,915 | 117 | 1,687 (43.1) | 1,122 (28.7) |
+| Total | 69,380 | 673 |  |  |
+
+<br>
+---  
+  
+## El conjunto de datos está disponible en nuestro repositorio de Zenodo 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
+
+La base de datos será actualizada con nuevos registros periódicamente, chequeá el repositorio de Zenodo para obtener la última versión.  
 
 
-{{% alert note %}}
-**Este trabajo está actualmente bajo revisión. Esperamos tenerlo disponible pronto.**  
-{{% /alert %}}
-
-Los campos de datos que se están colectando incluyen los siguientes términos:  
+### **Si utilizas estos datos, por favor cita a:**
+Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226
 
 
-| **Column label** | **Column description** |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| occurrenceID | An identifier for the Occurrence (as opposed to a particular digital record of the occurrence), constructed from a combination of identifiers in the record that will most closely make the occurrenceID globally unique. |
-| scientificName | The full scientific name with genus and specific epithet |
-| vernacularName | Common or vernacular name in Uruguay (in Spanish) |
-| kingdom | The full scientific name of the kingdom in which the taxon is classified |
-| phylum | The full scientific name of the phylum or division in which the taxon is classified |
-| class | The full scientific name of the class in which the taxon is classified |
-| order | The full scientific name of the order in which the taxon is classified |
-| family | The full scientific name of the family in which the taxon is classified |
-| countryCode | The standard code for the country in which the Location occurs |
-| stateProvince | The name of the next smaller administrative region than country (department) in which the Location occurs |
-| verbatimLocality | The original textual description of the place |
-| decimalLatitude | The geographic latitude (in decimal degrees) |
-| decimalLongitude | The geographic longitude (in decimal degrees) |
-| georeferenceSources | A list of maps, gazetteers, or other resources used to georeference the Location |
-| georeferencedBy | A person, group, or organization who determined the georeference (spatial representation) for the Location. |
-| eventDate | The date when the event was recorded. Format: dd-mm-yyyy |
-| year | The four-digit year in which the Event occurred. Format: yyyy |
-| month | The ordinal month in which the Event occurred. Format: mm |
-| day | The integer day of the month on which the Event occurred. Format: dd |
-| basisOfRecord | The specific nature of the data record (HUMAN_OBSERVATION, PRESERVED_SPECIMEN, MACHINE_OBSERVATION, UNKNOWN) |
-| institutionCode | The name (or acronym) in use by the institution having custody of the object(s) or information referred to in the record |
-| collectionCode | The name or acronym identifying the collection or data set from which the record was derived |
-| catalogNumber | An identifier (preferably unique) for the record within the data set or collection |
-| recordedBy | A list (concatenated and separated) of names of people, groups, or organizations responsible for recording the original Occurrence |
-| recordNumber | An identifier given to the Occurrence at the time it was recorded. Often serves as a link between field notes and an Occurrence record, such as a specimen collector's number. |
-| identifiedBy | A list (concatenated and separated) of names of people, groups, or organizations who assigned the Taxon to the subject |
-| iucnStatus | IUCN red list category of the taxon at the Global level |
-| associatedReferences | A list (concatenated and separated) of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Occurrence |
+
