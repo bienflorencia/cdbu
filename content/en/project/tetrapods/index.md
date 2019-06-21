@@ -65,6 +65,7 @@ We here present a comprehensive database of tetrapod occurrence records native f
 
 The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version.  
 
+<br>
 
 ### **If you use this data, plese cite:**
 Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226

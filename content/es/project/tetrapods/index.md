@@ -65,6 +65,7 @@ Presentamos una base de datos completa de registros de ocurrencia de tetrápodos
 
 La base de datos será actualizada con nuevos registros periódicamente, chequeá el repositorio de Zenodo para obtener la última versión.  
 
+<br>
 
 ### **Si utilizas estos datos, por favor cita a:**
 Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226
