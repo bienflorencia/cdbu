@@ -46,10 +46,10 @@ url_code = ""
 
 # A comprehensive database of tetrapod species occurrence records native from Uruguay.  
 
-We here present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates. The database provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded within the country. The total number of records collated is 69,380, spanning 673 species. This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date and it represents the first open repository for the country.
+We here present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates. The database provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded within the country. The total number of records collated is 69,380, spanning 673 species. This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date and it represents the first open repository for the country.  
 
 
-| � | Number of Occurrence Records | Number of Species | Records without Date (%) | Records from the last 30 years (%) |
+|   | Number of Occurrence Records | Number of Species | Records without Date (%) | Records from the last 30 years (%) |
 |----------|------------------------------|-------------------|--------------------------|------------------------------------|
 | Amphibia | 2,530 | 51 | 1,780 (70.4) | 683 (27.0) |
 | Reptilia | 2,308 | 68 | 1,999 (86.6) | 224 (9.7) |
@@ -57,11 +57,13 @@ We here present a comprehensive database of tetrapod occurrence records native f
 | Mammalia | 3,915 | 117 | 1,687 (43.1) | 1,122 (28.7) |
 | Total | 69,380 | 673 |  |  |
 
-
+  
+  
 ## The dataset is available at our Zenodo repository 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
 
-The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version
+The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version.  
+
 
 ### **If you use this data, plese cite:**
 Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226
