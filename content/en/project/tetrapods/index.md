@@ -46,44 +46,23 @@ url_code = ""
 
 # A comprehensive database of tetrapod species occurrence records native from Uruguay.  
 
-We have created a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates and locations georeferenciations. The dataset provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded in Uruguay. The total number of records in the dataset is 69,390, including 680 species (51 amphibians, 444 birds, 117 mammals and 68 reptiles). This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date, and it represents the first open repository for the country.
+We here present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates. The database provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded within the country. The total number of records collated is 69,380, spanning 673 species. This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date and it represents the first open repository for the country.
 
 
-{{% alert note %}}
-**This work is currently under peer-review. We hope to have it available soon.**  
-{{% /alert %}}
+| � | Number of Occurrence Records | Number of Species | Records without Date (%) | Records from the last 30 years (%) |
+|----------|------------------------------|-------------------|--------------------------|------------------------------------|
+| Amphibia | 2,530 | 51 | 1,780 (70.4) | 683 (27.0) |
+| Reptilia | 2,308 | 68 | 1,999 (86.6) | 224 (9.7) |
+| Aves | 60,627 | 437 | 131 (0.2) | 60,308 (99.5) |
+| Mammalia | 3,915 | 117 | 1,687 (43.1) | 1,122 (28.7) |
+| Total | 69,380 | 673 |  |  |
 
 
-The data fields that are being collected include the following terms:
+## The dataset is available at our Zenodo repository 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
 
+The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version
 
-| **Column label** | **Column description** |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| occurrenceID | An identifier for the Occurrence (as opposed to a particular digital record of the occurrence), constructed from a combination of identifiers in the record that will most closely make the occurrenceID globally unique. |
-| scientificName | The full scientific name with genus and specific epithet |
-| vernacularName | Common or vernacular name in Uruguay (in Spanish) |
-| kingdom | The full scientific name of the kingdom in which the taxon is classified |
-| phylum | The full scientific name of the phylum or division in which the taxon is classified |
-| class | The full scientific name of the class in which the taxon is classified |
-| order | The full scientific name of the order in which the taxon is classified |
-| family | The full scientific name of the family in which the taxon is classified |
-| countryCode | The standard code for the country in which the Location occurs |
-| stateProvince | The name of the next smaller administrative region than country (department) in which the Location occurs |
-| verbatimLocality | The original textual description of the place |
-| decimalLatitude | The geographic latitude (in decimal degrees) |
-| decimalLongitude | The geographic longitude (in decimal degrees) |
-| georeferenceSources | A list of maps, gazetteers, or other resources used to georeference the Location |
-| georeferencedBy | A person, group, or organization who determined the georeference (spatial representation) for the Location. |
-| eventDate | The date when the event was recorded. Format: dd-mm-yyyy |
-| year | The four-digit year in which the Event occurred. Format: yyyy |
-| month | The ordinal month in which the Event occurred. Format: mm |
-| day | The integer day of the month on which the Event occurred. Format: dd |
-| basisOfRecord | The specific nature of the data record (HUMAN_OBSERVATION, PRESERVED_SPECIMEN, MACHINE_OBSERVATION, UNKNOWN) |
-| institutionCode | The name (or acronym) in use by the institution having custody of the object(s) or information referred to in the record |
-| collectionCode | The name or acronym identifying the collection or data set from which the record was derived |
-| catalogNumber | An identifier (preferably unique) for the record within the data set or collection |
-| recordedBy | A list (concatenated and separated) of names of people, groups, or organizations responsible for recording the original Occurrence |
-| recordNumber | An identifier given to the Occurrence at the time it was recorded. Often serves as a link between field notes and an Occurrence record, such as a specimen collector's number. |
-| identifiedBy | A list (concatenated and separated) of names of people, groups, or organizations who assigned the Taxon to the subject |
-| iucnStatus | IUCN red list category of the taxon at the Global level |
-| associatedReferences | A list (concatenated and separated) of identifiers (publication, bibliographic reference, global unique identifier, URI) of literature associated with the Occurrence |
+### **If you use this data, plese cite:**
+Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226
+
