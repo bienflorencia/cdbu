@@ -3,7 +3,7 @@ title = "Biodiversidata: Una Base de Datos Sobre Biodiversidad de Acceso Abierto
 date = 2019-06-20T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin","1florencia", "german", "ines", "noelia", "enrique", "javier", "danielH", "gabriel", "raul", "jaml", "danielN", "analaura", "lucia", "2daniel"]
+authors = ["Florencia Grattarola", "Germán Botto", "Inés da Rosa", "Noelia Gobel", "Enrique M. González", "Javier González", "Daniel Hernández", "Gabriel Laufer", "Raúl Maneyro", "Juan A. Martínez-Lanfranco", "Daniel E. Naya", "Ana L. Rodales", "Lucía Ziegler", "Daniel Pincheira-Donoso", "admin"]
 
 # Publication type.
 # Legend:
