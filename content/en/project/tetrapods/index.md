@@ -6,7 +6,7 @@ title = "Vertebrates"
 date = 2019-04-23T00:00:00
 
 # Project summary to display on homepage.
-summary = "A comprehensive database of tetrapod species occurrence records native from Uruguay."
+summary = "A comprehensive database of tetrapod species occurrence records native from Uruguay"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-# A comprehensive database of tetrapod species occurrence records native from Uruguay.  
+# A database of records from tetrapod species native from Uruguay
 
 We here present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates. The database provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded within the country. The total number of records collated is 69,380, spanning 673 species. This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date and it represents the first open repository for the country.  
 <br>
@@ -60,7 +60,7 @@ We here present a comprehensive database of tetrapod occurrence records native f
 <br>
 ---  
   
-## The dataset is available at our Zenodo repository 
+### The dataset is available at our Zenodo repository 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
 
 The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version.  

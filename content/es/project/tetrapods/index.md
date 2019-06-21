@@ -6,7 +6,7 @@ title = "Vertebrados"
 date = 2019-04-23T00:00:00
 
 # Project summary to display on homepage.
-summary = "Base de datos completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay."
+summary = "Base de datos completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-## Base de datos completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay.  
+# Base de datos de registros de tetrápodos nativos del Uruguay
 
 Presentamos una base de datos completa de registros de ocurrencia de tetrápodos nativos de Uruguay, con las últimas actualizaciones taxonómicas. La base de datos proporciona datos primarios de biodiversidad sobre las especies existentes de anfibios, reptiles, aves y mamíferos registradas en el país. El número total de registros recopilados es de 69,380, abarcando 673 especies. Esta es la base de datos más grande y geográficamente y taxonómicamente más completa de tetrápodos uruguayos disponible hasta la fecha y representa el primer repositorio abierto para el país.  
 <br>
@@ -60,7 +60,7 @@ Presentamos una base de datos completa de registros de ocurrencia de tetrápodos
 <br>
 ---  
   
-## El conjunto de datos está disponible en nuestro repositorio de Zenodo 
+### El conjunto de datos está disponible en nuestro repositorio de Zenodo 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
 
 La base de datos será actualizada con nuevos registros periódicamente, chequeá el repositorio de Zenodo para obtener la última versión.  
