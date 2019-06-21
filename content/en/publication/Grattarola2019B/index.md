@@ -3,7 +3,7 @@ title = "Biodiversidata: An Open-Access Biodiversity Database for Uruguay"
 date = 2019-06-20T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Florencia Grattarola", "Germán Botto", "Inés da Rosa", "Noelia Gobel", "Enrique M. González", "Javier González", "Daniel Hernández", "Gabriel Laufer", "Raúl Maneyro", "Juan A. Martínez-Lanfranco", "Daniel E. Naya", "Ana L. Rodales", "Lucía Ziegler", "Daniel Pincheira-Donoso", "admin"]
+authors = ["1florencia", "german", "ines", "noelia", "enrique", "javier", "danielH", "gabriel", "raul", "jaml", "danielN", "analaura", "lucia", "2daniel"]
 
 # Publication type.
 # Legend:
