@@ -64,9 +64,9 @@ user_groups = [""]
 
 +++
 
-Florencia is a Uruguayan biologist studying a PhD in Life Sciences in Evolution and Ecology at the University of Lincoln (United Kingdom).
+Florencia is a Uruguayan biologist studying a PhD in Life Sciences at the University of Lincoln (United Kingdom).
 
-During her academic development she has been interested and passionate about several areas, from molecular ecology, conservation genetics, genomics and bioinformatics, to environmental education, relationships society- nature, and open science and knowledge democratization.
+During her academic development she has been interested and passionate about several areas, from molecular ecology, conservation genetics and bioinformatics, to environmental education, citizen science and knowledge democratization.
 
 The focus of her current research is to quantify patterns and processes of biodiversity. She aims to develop an unprecedented field of knowledge for Uruguay by promoting a large, multidisciplinary collaborative initiative to collect all biodiversity data of Uruguay.
 

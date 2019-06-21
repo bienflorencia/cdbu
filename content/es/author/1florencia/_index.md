@@ -16,7 +16,7 @@ role = "Coordinadora"
 organizations = [{ name = "University of Lincoln", url = "https://www.lincoln.ac.uk/home/" }, { name = "Agencia Nacional de Investigación e Innovación (ANII)", url = "http://www.anii.org.uy/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Founder of Biodiversidata"
+bio = "Fundadora de Biodiversidata"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -64,9 +64,10 @@ user_groups = [""]
 
 +++
 
-Florencia es una bióloga uruguaya estudiando un PhD in Life Sciences en el área de Evolution and Ecology de la University of Lincoln (United Kingdom).
+Florencia es una bióloga uruguaya estudiando un PhD in Life Sciences en la University of Lincoln (United Kingdom).
 
-Durante su desarrollo académico ha estado vinculada a diversas áreas, desde ecología molecular, genética de la conservación, genómica y bioinformática, a educación ambiental y relaciones sociedad-naturaleza, hasta ciencia abierta y democratización del conocimiento.
+Durante su desarrollo académico ha estado vinculada a diversas áreas, desde ecología molecular, genética de la conservación y bioinformática, a educación ambiental, ciencia ciudadana y democratización del conocimiento.
+
 
 El foco de su investigación actual es cuantificar patrones y procesos de la biodiversidad. Tiene como objetivo desarrollar un campo de conocimiento sin precedentes para Uruguay mediante la promoción de una gran iniciativa, multidisciplinaria y colaborativa, para colectar todos los datos de biodiversidad del Uruguay
 
