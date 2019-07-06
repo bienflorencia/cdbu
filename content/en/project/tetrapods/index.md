@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-# **A database of records from tetrapod species native from Uruguay**
+# A database of records from tetrapod species native from Uruguay
 
 We here present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates. The database provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded within the country. The total number of records collated is 69,380, spanning 673 species. This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date and it represents the first open repository for the country.  
 <br>
@@ -76,12 +76,12 @@ It may continue to be updated with new records periodically; check the Zenodo re
 
 Download the list of species including scientific and vernacular names, and Global and Regional IUCN conservation status:
 
-| **Checklist of Species** 	| :heavy_check_mark: 	|
-|--------------------------	|--------------------------------------------	|
-| :frog: 	| [Amphibia](/files/checklists/amphibia.csv) 	|
-| :snake: 	| [Reptilia](/files/checklists/amphibia.csv) 	|
-| :bird: 	| [Aves](/files/checklists/amphibia.csv) 	|
-| :bat: 	| [Mammalia](/files/checklists/amphibia.csv) 	|
+| **Checklist of Species** 	| :heavy_check_mark: 	|  	|
+|--------------------------	|----------------------------------------------	|---------	|
+|  	| [Amphibians](/files/checklists/amphibia.csv) 	| :frog: 	|
+|  	| [Reptiles](/files/checklists/reptilia.csv) 	| :snake: 	|
+|  	| [Birds](/files/checklists/aves.csv) 	| :bird: 	|
+|  	| [Mammals](/files/checklists/mammalia.csv) 	| :bat: 	|
 
 ###### *Last Updated: 06/07/2019*
 
