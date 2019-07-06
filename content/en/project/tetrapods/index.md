@@ -57,13 +57,28 @@ We here present a comprehensive database of tetrapod occurrence records native f
 | Mammalia | 3,915 | 117 | 1,687 (43.1) | 1,122 (28.7) |
 | Total | 69,380 | 673 |  |  |
 
+
+*Last Updated: 20/06/2019*
+
 <br>
 ---  
   
 ### The dataset is available at our Zenodo repository 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
 
-The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version.  
+The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version.
+<br>
+
+### Download the Species Checklist with scientific and vernacular names, and Global and Regional IUCN conservation status:
+
+| **Checklist of Species** |
+|------------------------------------------|
+| [Amphibia](data/checklists/amphibia.csv) |
+| [Reptilia](data/checklists/amphibia.csv) |
+| [Aves](data/checklists/amphibia.csv) |
+| [Mammalia](data/checklists/amphibia.csv) |
+
+*Last Updated: 06/07/2019*
 
 <br>
 
