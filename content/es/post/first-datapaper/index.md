@@ -37,7 +37,7 @@ projects = ["tetrapods"]
 
 +++
 
-Nuestro primer artículo ha sido publicado en el ** Biodiversity Data Journal **. Deriva del trabajo colaborativo de los y las integrantes del equipo y establece un hito en la historia de la asociación al ser la primera base de datos completa y de acceso abierto de registros de biodiversidad para Uruguay. El *Data Paper* incluye registros primarios de biodiversidad de especies de tetrápodos y un gran número de descriptores de datos que enriquecen cada observación/colecta de organismos.
+Nuestro primer artículo ha sido publicado en el **Biodiversity Data Journal**. Deriva del trabajo colaborativo de los y las integrantes del equipo y establece un hito en la historia de la asociación al ser la primera base de datos completa y de acceso abierto de registros de biodiversidad para Uruguay. El *Data Paper* incluye registros primarios de biodiversidad de especies de tetrápodos y un gran número de descriptores de datos que enriquecen cada observación/colecta de organismos.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/biodiversidata/48104138298/in/album-72157709124750472/" title="Data Paper (ESP)"><img src="https://live.staticflickr.com/65535/48104138298_ace3193731_z.jpg" width="260" height="640" alt="Data Paper (ESP)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
