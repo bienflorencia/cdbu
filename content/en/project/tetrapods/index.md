@@ -72,11 +72,11 @@ The database may continue to be updated with new records periodically; check the
 ### Download the Species Checklist with scientific and vernacular names, and Global and Regional IUCN conservation status:
 
 | **Checklist of Species** |
-|------------------------------------------|
-| [Amphibia](data/checklists/amphibia.csv) |
-| [Reptilia](data/checklists/amphibia.csv) |
-| [Aves](data/checklists/amphibia.csv) |
-| [Mammalia](data/checklists/amphibia.csv) |
+|--------------------------------------------------|
+| [Amphibia](static/files/checklists/amphibia.csv) |
+| [Reptilia](static/files/checklists/amphibia.csv) |
+| [Aves](static/files/checklists/amphibia.csv) |
+| [Mammalia](static/files/checklists/amphibia.csv) |
 
 *Last Updated: 06/07/2019*
 
