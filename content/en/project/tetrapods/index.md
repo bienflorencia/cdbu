@@ -58,20 +58,23 @@ We here present a comprehensive database of tetrapod occurrence records native f
 | Total | 69,380 | 673 |  |  |
 
 
-###### *Last Updated: 20/06/2019*
-
 <br>
 ---  
   
-### The dataset is available at our Zenodo repository 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
+### Database
 
-The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version.  
+The dataset is available at our Zenodo repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
+It may continue to be updated with new records periodically; check the Zenodo repository for the latest version.  
+
+###### *Last Updated: 20/06/2019*
+
 <br>
 
 ***
 
-#### Download the Species Checklist with scientific and vernacular names, and Global and Regional IUCN conservation status:
+#### Species Checklist 
+
+Download the list of species including scientific and vernacular names, and Global and Regional IUCN conservation status:
 
 | **Checklist of Species** 	| :heavy_check_mark: 	|
 |--------------------------	|--------------------------------------------	|
