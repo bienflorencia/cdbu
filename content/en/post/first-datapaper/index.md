@@ -39,7 +39,7 @@ projects = ["tetrapods"]
 
 Our first paper has been published in the **Biodiversity Data Journal**. It derives from the collaborative work of the team members and sets a milestone in the association’s history by being the first comprehensive, open-access database of biodiversity records for Uruguay. The Data Paper includes primary biodiversity records of tetrapod species and data descriptors that enrich each organism collection/observation.
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/biodiversidata/48104086821/in/album-72157709124750472/" title="Data Paper (ENG)"><img src="https://live.staticflickr.com/65535/48104086821_6b3c8fc0ee_z.jpg" width="260" height="640" alt="Data Paper (ENG)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/biodiversidata/48104086821/in/album-72157709124750472/" title="Data Paper (ENG)"><img src="https://live.staticflickr.com/65535/48104086821_6b3c8fc0ee_z.jpg" width="260" height="640" alt="Data Paper (ENG)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ***
 
@@ -54,9 +54,9 @@ Check out the [Vertebrates Database](https://biodiversidata.org/en/project/tetra
 
 ## What does it mean the database is Open-Access? :open_file_folder:
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/biodiversidata/48079763261/in/album-72157709124750472/" title="Open Data (ESP)"><img src="https://live.staticflickr.com/65535/48079763261_502b533679_z.jpg" width="452" height="640" alt="Open Data (ESP)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/biodiversidata/48079792503/in/album-72157709124750472/" title="Open Data (ENG)"><img src="https://live.staticflickr.com/65535/48079792503_a271b06e5d_z.jpg" width="452" height="640" alt="Open Data (ENG)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## What does it mean the data follow the FAIR Principles? :ok:
+## What does following the FAIR Principles mean? :heavy_check_mark:
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/biodiversidata/48079863267/in/album-72157709124750472/" title="Fair Data (ENG)"><img src="https://live.staticflickr.com/65535/48079863267_230403db11_z.jpg" width="452" height="640" alt="Fair Data (ENG)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/biodiversidata/48079863267/in/album-72157709124750472/" title="Fair Data (ENG)"><img src="https://live.staticflickr.com/65535/48079863267_230403db11_z.jpg" width="452" height="640" alt="Fair Data (ENG)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
