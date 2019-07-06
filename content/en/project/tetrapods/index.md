@@ -66,21 +66,26 @@ We here present a comprehensive database of tetrapod occurrence records native f
 ### The dataset is available at our Zenodo repository 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
 
-The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version.
+The database may continue to be updated with new records periodically; check the Zenodo repository for the latest version.  
 <br>
 
-### Download the Species Checklist with scientific and vernacular names, and Global and Regional IUCN conservation status:
+***
 
-| **Checklist of Species** | :heavy_check_mark: |
-|:------------------------------------------------:|:------------------:|
-| [Amphibia](static/files/checklists/amphibia.csv) | :frog: |
-| [Reptilia](static/files/checklists/amphibia.csv) | :snake: |
-| [Aves](static/files/checklists/amphibia.csv) | :bird: |
-| [Mammalia](static/files/checklists/amphibia.csv) | :wolf: |
+#### Download the Species Checklist with scientific and vernacular names, and Global and Regional IUCN conservation status:
+
+| **Checklist of Species** 	| :heavy_check_mark: 	|
+|--------------------------	|--------------------------------------------	|
+| :frog: 	| [Amphibia](/files/checklists/amphibia.csv) 	|
+| :snake: 	| [Reptilia](/files/checklists/amphibia.csv) 	|
+| :bird: 	| [Aves](/files/checklists/amphibia.csv) 	|
+| :bat: 	| [Mammalia](/files/checklists/amphibia.csv) 	|
 
 ###### *Last Updated: 06/07/2019*
 
 <br>
+
+
+***
 
 ### **If you use the data, please cite as:**
 Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226
