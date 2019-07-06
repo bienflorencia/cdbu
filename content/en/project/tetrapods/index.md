@@ -76,12 +76,12 @@ It may continue to be updated with new records periodically; check the Zenodo re
 
 Download the list of species including scientific and vernacular names, and Global and Regional IUCN conservation status:
 
-| **Species Checklist** 	|  	| :heavy_check_mark: 	|
-|-----------------------	|---------	|----------------------------------------------	|
-|  	| :frog: 	| [Amphibians](/files/checklists/amphibia.csv) 	|
-|  	| :snake: 	| [Reptiles](/files/checklists/reptilia.csv) 	|
-|  	| :owl: 	| [Birds](/files/checklists/aves.csv) 	|
-|  	| :bat: 	| [Mammals](/files/checklists/mammalia.csv) 	|
+| **Species Checklist** 	|  	|  	|  	|
+|-----------------------	|---------	|----------------------------------------------	|--------------------	|
+|  	| :frog: 	| [Amphibians](/files/checklists/amphibia.csv) 	| :heavy_check_mark: 	|
+|  	| :snake: 	| [Reptiles](/files/checklists/reptilia.csv) 	| :heavy_check_mark: 	|
+|  	| :owl: 	| [Birds](/files/checklists/aves.csv) 	| :heavy_check_mark: 	|
+|  	| :bat: 	| [Mammals](/files/checklists/mammalia.csv) 	| :heavy_check_mark: 	|
 
 ###### *Last Updated: 06/07/2019*
 
