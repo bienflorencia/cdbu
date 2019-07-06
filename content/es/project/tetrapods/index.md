@@ -75,12 +75,9 @@ Será actualizada con nuevos registros periódicamente, chequeá el repositorio 
 
 Descargá la lista de especies incluyendo nombre científico y común, y estado de conservación Global y Regional según UICN:
 
-| **Listado de Epecies** 	|  	| :heavy_check_mark: 	|
-|------------------------	|---------	|---------------------------------------------	|
-|  	| :frog: 	| [Anfibios](/files/checklists/amphibia.csv) 	|
-|  	| :snake: 	| [Reptiles](/files/checklists/reptilia.csv) 	|
-|  	| :owl: 	| [Aves](/files/checklists/aves.csv) 	|
-|  	| :bat: 	| [Mamíferos](/files/checklists/mammalia.csv) 	|
+| :frog: 	| :snake: 	| :owl: 	| :bat: 	|
+|--------------------------------------------	|--------------------------------------------	|------------------------------------	|---------------------------------------------	|
+| [Anfibios](/files/checklists/amphibia.csv) 	| [Reptiles](/files/checklists/reptilia.csv) 	| [Aves](/files/checklists/aves.csv) 	| [Mamíferos](/files/checklists/mammalia.csv) 	|
 
 ###### *Última actualización: 06/07/2019*
 
