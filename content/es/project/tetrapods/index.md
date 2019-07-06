@@ -60,12 +60,34 @@ Presentamos una base de datos completa de registros de ocurrencia de tetrápodos
 <br>
 ---  
   
-### El conjunto de datos está disponible en nuestro repositorio de Zenodo 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
+### Base de Datos
+  
+El conjunto de datos está disponible en nuestro repositorio de Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
+Será actualizada con nuevos registros periódicamente, chequeá el repositorio de Zenodo para obtener la última versión.  
 
-La base de datos será actualizada con nuevos registros periódicamente, chequeá el repositorio de Zenodo para obtener la última versión.  
+###### *Última actualización: 20/06/2019*
 
 <br>
+
+***
+
+#### Listado de Especies 
+
+Descargá la lista de especies incluyendo nombre científico y común, y estado de conservación Global y Regional según UICN:
+
+| **Listado de Epecies** 	|  	| :heavy_check_mark: 	|
+|------------------------	|---------	|---------------------------------------------	|
+|  	| :frog: 	| [Anfibios](/files/checklists/amphibia.csv) 	|
+|  	| :snake: 	| [Reptiles](/files/checklists/reptilia.csv) 	|
+|  	| :owl: 	| [Aves](/files/checklists/aves.csv) 	|
+|  	| :bat: 	| [Mamíferos](/files/checklists/mammalia.csv) 	|
+
+###### *Última actualización: 06/07/2019*
+
+<br>
+
+
+***
 
 ### **Si utilizas estos datos, por favor cita a:**
 Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226
