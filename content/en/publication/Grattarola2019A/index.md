@@ -81,4 +81,3 @@ url_source = ""
 
 +++
 
-*Accepted for publication in next volume*
