@@ -1,6 +1,6 @@
 +++
 title = "Data-sharing en Uruguay: la visión de los colectores y usuarios de datos"
-date = 2019-01-01T00:00:00
+date = 2019-07-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["1florencia", "2daniel"]
@@ -55,7 +55,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/BZU_28_1.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
