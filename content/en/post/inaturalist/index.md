@@ -2,8 +2,8 @@
 title = "iNaturalist & Biodiversidata"
 subtitle = "Contributing to a Global Network of Citizen Science"
 
-date = 2019-07-06T00:00:00  # Schedule a publish date
-lastmod = 2019-07-06T00:00:00  # Date last modified
+date = 2019-08-31T00:00:00  # Schedule a publish date
+lastmod = 2019-08-31T00:00:00  # Date last modified
 draft = false  # Display this post? (true/false)
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
