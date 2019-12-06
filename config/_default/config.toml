@@ -16,7 +16,7 @@ baseurl = "https://biodiversidata.org/"
 copyright = "Brand [Renata Polastri](https://www.behance.net/renatapolastri). Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-154132563-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
