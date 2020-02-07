@@ -77,9 +77,11 @@ by pablobaldu. <br><br>More details at:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br>
 
 ### Sin embargo, un gran número de las observaciones registradas (**42.3%**) todavía aguardan identificación :exclamation:  
 
+<br>
 
 La calidad de los datos se evalúa en términos de la precisión e integridad de cada observación. Todas las observaciones empiezan con grado **'Casual'** y luego pasan a **'Necesita ID'** cuando la observación: tiene fecha, referencia geográfica (coordenadas lat/lon), tiene una foto y/o audio, y no es de un organismo cautivo o cultivado. Por último, la observación puede alcanzar **'Grado de investigación'** cuando más de dos tercios de quienes identifican están de acuerdo con la identificación, como mínimo a nivel de especie.
 

@@ -76,9 +76,11 @@ by pablobaldu. <br><br>More details at:
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br>
 
 ### However, a large number of the observations recorded (**42.3%**) still await identification  :exclamation:  
 
+<br>
 
 The quality of the data is evaluated in terms of the accuracy and integrity of each observation. All observations begin with grade **'Casual'** and then go to **'Needs ID'** when the observation: has date, geographical reference (lat / lon coordinates), has a photo and/or audio, and it is not from a captive or cultivated organism. Finally, the observation can reach **'Research Grade'** when more than two thirds of those who identify agree with the identification, at least at the species level.
 
