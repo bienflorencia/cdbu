@@ -49,8 +49,9 @@ This trend in the increase of observations can be seen for all taxonomic groups 
 
 ![](/img/post_iNatUy_files-2-1.png)
 
-Uruguayan observations have already begun to be used, for example to illustrate press releases (see ['The fauna of sandy beaches: another victim of urbanization'](https://ciencia.ladiaria.com.uy/articulo/2020/2/la-fauna-de-las-playas-arenosas-otra-victima-de-la-urbanizacion/) by Leo Lagos – La Diaria). In addition, a Uruguayan record was highlighted as the **Observation of the Day on the platform**:  
+Uruguayan observations have already begun to be used, for example to illustrate press releases (see ['The fauna of sandy beaches: another victim of urbanization'](https://ciencia.ladiaria.com.uy/articulo/2020/2/la-fauna-de-las-playas-arenosas-otra-victima-de-la-urbanizacion/) by Leo Lagos – La Diaria). In addition, a Uruguayan record was highlighted as **Observation of the Day** on iNaturalist:  
 
+<br>
 
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">

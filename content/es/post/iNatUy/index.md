@@ -50,8 +50,9 @@ Esta tendencia en el aumento de observaciones se puede ver para todos los grupos
 
 ![](/img/post_iNatUy_files-2-1.png)
 
-Las observaciones uruguayas ya han comenzado a usarse, por ejemplo para ilustrar notas de prensa (ver ['La fauna de las playas arenosas: otra víctima de la urbanización'](https://ciencia.ladiaria.com.uy/articulo/2020/2/la-fauna-de-las-playas-arenosas-otra-victima-de-la-urbanizacion/) por Leo Lagos – La Diaria). Además, un registro uruguayo fue destacado como la **Observación del Día en la plataforma**:  
+Las observaciones uruguayas ya han comenzado a usarse, por ejemplo para ilustrar notas de prensa (ver ['La fauna de las playas arenosas: otra víctima de la urbanización'](https://ciencia.ladiaria.com.uy/articulo/2020/2/la-fauna-de-las-playas-arenosas-otra-victima-de-la-urbanizacion/) por Leo Lagos – La Diaria). Además, un registro uruguayo fue destacado como la **Observación del Día** en iNaturalist:  
 
+<br>
 
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">
