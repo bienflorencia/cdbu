@@ -87,7 +87,7 @@ La falta de identificación de las observaciones es mayor en algunos grupos:
 
 ![](/img/post_iNatUy_files-3-1.png)
 
-Por eso, desde Biodiversidata elaboramos una guía básica (muy básica) para quienes quieran colaborar identificando observaciones.    
+Por eso, desde Biodiversidata elaboramos una guía básica (*muy básica*) para quienes quieran colaborar identificando observaciones.    
 
 
 Accedé y descargá la :page_facing_up: [Guía para colaborar con las IDs](/files/Guía_para_colaborar_con_IDs_en_iNaturalist.pdf)
