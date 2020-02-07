@@ -90,9 +90,12 @@ The lack of identification of the observations is greater in some groups:
 
 Therefore, in Biodiversidata we have prepared a basic guide (**very basic**) for those who want to collaborate identifying observations.    
 
+<br>
 
-Access and download the :page_facing_up: [Guide to collaborate with IDs (in Spanish)](/files/Guía_para_colaborar_con_IDs_en_iNaturalist.pdf)
+:page_facing_up: [Guide to collaborate with IDs (in Spanish)](/files/Guía_para_colaborar_con_IDs_en_iNaturalist.pdf)
 --------------------------------------------------------------------------------------------------------------------------------  
+
+<br>
  
 
 #### The quality of the data we have for Uruguay depends largely on the active community of naturalists.
