@@ -37,7 +37,7 @@ summary = ""
 
 +++
 
-In Biodiversidata we have focused on improving the quantity and availability of biodiversity data in Uruguay. Initially, we started by gathering data derived from research, but since mid-2019 we decided to also explore data from citizen science.
+In **Biodiversidata** we have focused on improving the quantity and availability of biodiversity data in Uruguay. Initially, we started by gathering data derived from research, but since mid-2019 we decided to also explore data from citizen science.
 
 We saw in **iNaturalist** an ideal platform to increase the amount of fauna and flora records for the country, while at the same time promote greater nature knowledge and the use of the information generated in Uruguay. So, in the middle of last year we started with a small note that sought to show the tool as the answer to the oldest question in the world, *what is that bug?* (Ciencia ciudadana for export de Uruguay [**blog post**](https://biodiversidata.org/en/post/inaturalist/)). After that, we delivered talks in academic fields (Rufford Conference [**video-talk**](https://youtu.be/3_lM-gPNLWY)) and for all audiences (Torres de la Lllosa Museum [**presentation**](https://flograttarola.com/pdf/NaturalistaUy.pdf)). Also, they made us notes in written press (newspaper El País [**note**](https://www.elpais.com.uy/vida-actual/busca-uruguayos-participen-plataforma-ayuda-cientificos.html)) and radio (Radio Uruguay [**interview**](https://radiouruguay.uy/inaturalist-una-apuesta-a-la-ciencia-ciudadana/)).  
 
