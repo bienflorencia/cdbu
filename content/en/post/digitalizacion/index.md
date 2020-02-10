@@ -41,6 +41,9 @@ On the first days of the year we were digitizing specimens from the herbarium of
 
 The digitization work included the scanning in high quality of more than 600 samples, using the museum’s HerbScan system, and the later transcription of the data for each sample. We extracted data related to the species, collection locality and date, and also about the collectors and the species identifiers. These data are now being checked and adapted following international standards for biodiversity data (Darwin Core). Together with the more than 10 thousand plant occurrence records we have collated with Biodiversidata, we will use them to answer research questions related to the distribution of floras in the national territory. We look forward to making all the material available and open in the short term and hope to keep digitizing new records.  
 
+<br>
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/gp/biodiversidata/18cM43" title="Digitalización Herbario MNHN"><img src="https://live.staticflickr.com/65535/49515875877_9e9ae559a3_z.jpg" width="640" height="427" alt="Digitalización Herbario MNHN"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
 
 We would like to thank the Museum, specially to Meica Valdivia for her knowledge and kind collaboration, and to the director Javier González for the great disposal and openness.   
 

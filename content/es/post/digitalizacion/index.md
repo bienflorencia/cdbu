@@ -41,6 +41,9 @@ En los primeros días del presente año estuvimos digitalizando especímenes del
 
 El trabajo consistió en escanear en alta calidad más de 600 ejemplares, haciendo uso del sistema HerbScan con el que cuenta el museo, y en la posterior transcripción de los datos de cada espécimen. Se extrajo información relativa a la especie, localidad y fecha de registro, y también sobre quién colectó la muestra y quién identificó la especie. Estos datos están siendo revisados y adaptados siguiendo estándares internacionales para datos de biodiversidad (Darwin Core). Serán sumados a los más de 10 mil datos de registros de presencia de plantas que llevamos reunidos con Biodiversidata y utilizados para responder preguntas de investigación sobre la distribución de las floras en el territorio nacional. Esperamos poder poner todo el material a disposición en formato abierto a la brevedad y buscaremos asimismo continuar con el trabajo de digitalización.  
 
+<br>
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/gp/biodiversidata/18cM43" title="Digitalización Herbario MNHN"><img src="https://live.staticflickr.com/65535/49515875877_9e9ae559a3_z.jpg" width="640" height="427" alt="Digitalización Herbario MNHN"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
 
 Agradecemos al Museo, en especial a Meica Valdivia por su conocimiento y amable colaboración, y a su director Javier González por la gran disposición y apertura.   
 
