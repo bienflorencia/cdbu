@@ -53,44 +53,6 @@ summary = ""
 
 El número total de registros es **82,711** para todos los grupos.  
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;">
-Grupo
-</th>
-<th style="text-align:right;">
-Total
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-Invertebrados
-</td>
-<td style="text-align:right;">
-601
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Plantas
-</td>
-<td style="text-align:right;">
-18793
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Vertebrados
-</td>
-<td style="text-align:right;">
-69381
-</td>
-</tr>
-</tbody>
-</table>
 
 ![](/img/annual-report-2019.png)
 
@@ -394,7 +356,6 @@ Todos lo *scripts* de **R** utilizados para los diferentes análisis de Biodiver
 
 <a href="#-" style="float: right; font-size:50px"">:arrow_up_small:</a>
 
----
 
 ---
 
@@ -417,14 +378,14 @@ Se creó sólo un perfil de [**Twitter**](https://twitter.com/biodiversidata), c
 
 También se creo un perfil de [**Flickr**](https://www.flickr.com/gp/biodiversidata/0qDct1), para divulgar fotografías y material infográfico con licencia Creative Commons.  
 
-<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/biodiversidata/albums/72157709124750472" title="Inforgraphics"><img src="https://live.staticflickr.com/65535/48120334908_c169ceba93.jpg" width="500" height="354" alt="Inforgraphics"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/biodiversidata/albums/72157709124750472" title="Inforgraphics"><img src="https://live.staticflickr.com/65535/48120334908_c169ceba93_n.jpg" width="320" height="226" alt="Inforgraphics"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **PREGUNTAS**: ¿Les parece que deberíamos tener otro perfil (ej.: **Instagram**, **Facebook**)? ¿Qué otro tipo de contenido podría divulgarse?  
 
 
 +   **Reuniones virtuales**
 
-En el correr de un año se convocaron 3 reuniones virtuales, en torno a 
+En el correr de un año se convocaron 3 reuniones virtuales, en torno a:   
  - **Integración de Biodiversidata**: definición de criterios que deben cumplir las personas para integrar la iniciativa.  
  - **Datos, Metadatos y Data Papers**: determinación de campos a ser sistematizados para los datos y metadatos, e introducción de la modalidad de data papers.  
  - **Registros de Ciencia Ciudadana**: colaboración con la plataforma iNaturalist e integración de Uruguay a la red global.  
@@ -461,7 +422,6 @@ total 4 (Abril, Junio, Agosto y Octubre) uno cada 2 meses. Se estructuraron en n
 
 ## 3) Publicaciones  
 
-Se llevan publicados 2 trabajos y  
 
 +   **Data Paper de Tetrápodos**
 
@@ -478,7 +438,7 @@ Este estudio explora la visión de los colectores y usuarios de datos analizando
 
 +   **Manuscrito sobre Hotspots de Tetrápodos**
 
-Grattarola F., Botto G., da Rosa I., Gobel N., González A., González E., González J., Hernández D., Laufer G., Mai P., Maneyro R., Martínez-Lanfranco J., Naya D., Rodales A., Ziegler L., Pincheira-Donoso D. Large-scale patterns of vertebrate biodiversity of Uruguay: are diversity hotspots real or fabricated? (***in prep***)    
+Grattarola F., Botto G., da Rosa I., Gobel N., González A., González E., González J., Hernández D., Laufer G., Mai P., Maneyro R., Martínez-Lanfranco J., Naya D., Rodales A., Ziegler L., Pincheira-Donoso D. Large-scale patterns of vertebrate biodiversity of Uruguay: are diversity hotspots real or fabricated? (***in prep***).    
 
 Nuestros análisis revelan que los hotspots de riqueza de especies, amenaza y endemismo no son espacialmente congruentes al analizar las clases de tetrápodos por separado o en combinación. Además, mostramos que la mayor parte de la superficie del país permanece sin estudiar, mientras que algunas áreas han sido muestreadas históricamente con mayor intensidad. También proporcionamos una línea de base extremadamente detallada para mejorar los esfuerzos de monitoreo de la biodiversidad en áreas que permanecen constantemente ignoradas.   
 
