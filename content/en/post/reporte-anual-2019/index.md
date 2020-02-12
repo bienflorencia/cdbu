@@ -2,8 +2,8 @@
 title = "Annual Report 2019"
 subtitle = "2nd Meeting of Members of Biodiversidata"
 
-date = 2020-02-07T12:00:00  # Schedule a publish date
-lastmod = 2020-02-07T12:00:00  # Date last modified
+date = 2019-12-19T12:00:00  # Schedule a publish date
+lastmod = 2019-12-19T12:00:00  # Date last modified
 draft = false  # Display this post? (true/false)
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
