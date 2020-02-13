@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Novedades"
-subtitle = "Enterate de las últimas noticias del projecto"
+subtitle = "Enterate de las últimas noticias del proyecto"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
