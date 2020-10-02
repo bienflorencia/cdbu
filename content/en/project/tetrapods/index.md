@@ -69,7 +69,17 @@ It may continue to be updated with new records periodically; check the Zenodo re
 ###### *Last Updated: 20/06/2019*
 
 <br>
+***
 
+### Occurrence records
+
+Explore the data !
+
+----
+<iframe src='/img/leafMap_ENG.html' height='700' width="100%"> 
+</iframe>
+
+<br>
 ***
 
 #### Species Checklist 
