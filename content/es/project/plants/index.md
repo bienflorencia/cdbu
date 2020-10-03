@@ -156,7 +156,7 @@ Descargá la lista de especies incluyendo nombre científico y común, y el modo
 </tbody>
 </table>
 
-###### *Última actualización: 28/08/2020*
+###### *Última actualización: 03/10/2020*
 
 <br>
 
@@ -167,4 +167,4 @@ Descargá la lista de especies incluyendo nombre científico y común, y el modo
 Grattarola F, González A, Mai P, Cappuccio L, Fagúndez-Pachón C, Rossi
 F, Teixeira de Mello F, Urtado L, Pincheira-Donoso D (2020)
 Biodiversidata: A novel dataset for the vascular plant species diversity
-in Uruguay. Biodiversity Data Journal (*in press*)
+in Uruguay. Biodiversity Data Journal (*In press*)

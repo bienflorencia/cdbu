@@ -144,8 +144,7 @@ Explore the data !
 
 ### Species Checklist
 
-Download the list of species including scientific and vernacular names,
-and establishment means (native or introduce):
+Download the list of species including scientific and vernacular names, and establishment means (native or introduce):
 
 <table>
 <thead>
@@ -160,7 +159,7 @@ and establishment means (native or introduce):
 </tbody>
 </table>
 
-###### *Last Updated: 28/08/2020*
+###### *Last Updated: 03/10/2020*
 
 <br>
 
@@ -171,6 +170,4 @@ and establishment means (native or introduce):
 Grattarola F, González A, Mai P, Cappuccio L, Fagúndez-Pachón C, Rossi
 F, Teixeira de Mello F, Urtado L, Pincheira-Donoso D (2020)
 Biodiversidata: A novel dataset for the vascular plant species diversity
-in Uruguay. Biodiversity Data Journal (*in press*)
-Soon we will have news.  
-
+in Uruguay. Biodiversity Data Journal (*In press*)
