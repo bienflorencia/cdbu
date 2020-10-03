@@ -15,7 +15,7 @@ subtitle = "Find out the latest updates of the project"
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 4
   
   # Choose how many pages you would like to offset by
   offset = 0
