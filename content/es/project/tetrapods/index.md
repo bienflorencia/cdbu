@@ -6,7 +6,7 @@ title = "Vertebrados"
 date = 2019-04-23T00:00:00
 
 # Project summary to display on homepage.
-summary = "Base de datos completa de registros de ocurrencia de especies de tetrápodos nativos del Uruguay"
+summary = "Datos primarios de especies de tetrápodos nativos del Uruguay"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "ai", icon="open-data", name="Datos", url = "https://doi.org/10.5281/zenodo.3685897"}]
+links = [{icon_pack = "ai", icon="open-access", name="Datos", url = "https://doi.org/10.5281/zenodo.3685897"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
