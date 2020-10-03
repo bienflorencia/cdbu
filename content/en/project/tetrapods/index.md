@@ -82,7 +82,7 @@ Explore the data !
 <br>
 ***
 
-#### Species Checklist 
+### Species Checklist 
 
 Download the list of species including scientific and vernacular names, and Global and Regional IUCN conservation status:
 

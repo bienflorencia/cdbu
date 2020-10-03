@@ -70,9 +70,9 @@ Será actualizada con nuevos registros periódicamente, chequeá el repositorio 
 <br>
 ***
 
-### Occurrence records
+### Registros de presencia
 
-Explore the data !
+Explorá los datos !
 
 ----
 <iframe src='/img/TetrapodosMap.html' height='700' width="100%"> 
@@ -81,7 +81,7 @@ Explore the data !
 <br>
 ***
 
-#### Listado de Especies 
+### Listado de Especies 
 
 Descargá la lista de especies incluyendo nombre científico y común, y estado de conservación Global y Regional según UICN:
 
