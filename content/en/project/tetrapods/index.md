@@ -76,7 +76,7 @@ It may continue to be updated with new records periodically; check the Zenodo re
 Explore the data !
 
 ----
-<iframe src='/img/leafMap_ENG.html' height='700' width="100%"> 
+<iframe src='/img/TetrapodsMap.html' height='700' width="100%"> 
 </iframe>
 
 <br>

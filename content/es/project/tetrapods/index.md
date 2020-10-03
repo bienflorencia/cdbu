@@ -68,7 +68,17 @@ Será actualizada con nuevos registros periódicamente, chequeá el repositorio 
 ###### *Última actualización: 20/06/2019*
 
 <br>
+***
 
+### Occurrence records
+
+Explore the data !
+
+----
+<iframe src='/img/TetrapodosMap.html' height='700' width="100%"> 
+</iframe>
+
+<br>
 ***
 
 #### Listado de Especies 
