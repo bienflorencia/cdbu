@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "ai", icon="zenodo", name="Data", url = "https://doi.org/10.5281/zenodo.3954406"}]
+links = [{icon_pack = "ai", icon="doi", name="Data", url = "https://doi.org/10.5281/zenodo.3954406"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -46,17 +46,8 @@ links = [{icon_pack = "ai", icon="zenodo", name="Data", url = "https://doi.org/1
 
 # A database of records of vascular plant species from Uruguay
 
-Here we present the first comprehensive open-access species-level
-database of the vascular plant diversity recorded in Uruguay to date
-(i.e.: all species for which data is currently available and species
-presence has been confirmed). It contains 12,470 occurrence records from
-across 1,648 species and 160 families, which roughly represents 60% of
-the total recorded flora of Uruguay. The primary biodiversity data
-include extant native and introduced species from the lycophytes, ferns,
-gymnosperms, and angiosperms groups. Records were collated from multiple
-sources including data available in the peer-reviewed scientific
-literature, institutional scientific collections, and datasets
-contributed by members of the Biodiversidata initiative. <br>
+Here we present the first comprehensive open-access species-level database of the vascular plant diversity recorded in Uruguay to date
+(i.e.: all species for which data is currently available and species presence has been confirmed). It contains 12,470 occurrence records from across 1,648 species and 160 families, which roughly represents 60% of the total recorded flora of Uruguay. The primary biodiversity data include extant native and introduced species from the lycophytes, ferns, gymnosperms, and angiosperms groups. Records were collated from multiple sources including data available in the peer-reviewed scientific literature, institutional scientific collections, and datasets contributed by members of the Biodiversidata initiative. <br>
 
 <table>
 <colgroup>
@@ -137,18 +128,19 @@ Zenodo repository for the latest version
 ###### *Last Updated: 28/09/2020*
 
 <br>
-----
+---
 
 ### Occurrence records
 
 Explore the data !
 
 ----
-<iframe src='/img/leafMap.html' height='700' width="100%"> 
+<iframe src='/img/PlantsMap.html' height='700' width="100%"> 
 </iframe>
 
 <br>
-----
+---
+
 
 ### Species Checklist
 

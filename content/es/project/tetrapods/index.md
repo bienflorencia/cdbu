@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/biodiversidata"}]
+links = [{icon_pack = "ai", icon="doi", name="Datos", url = "https://doi.org/10.5281/zenodo.3685897"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -62,7 +62,10 @@ Presentamos una base de datos completa de registros de ocurrencia de tetrápodos
   
 ### Base de Datos
   
-El conjunto de datos está disponible en nuestro repositorio de Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
+El conjunto de datos está disponible en nuestro repositorio de Zenodo
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3685897.svg)](https://doi.org/10.5281/zenodo.3685897)
+
 Será actualizada con nuevos registros periódicamente, chequeá el repositorio de Zenodo para obtener la última versión.  
 
 ###### *Última actualización: 20/06/2019*
