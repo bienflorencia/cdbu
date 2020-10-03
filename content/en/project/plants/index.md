@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "ai", icon="open-data", name="Data", url = "https://doi.org/10.5281/zenodo.3954406"}]
+links = [{icon_pack = "ai", icon="open-access", name="Data", url = "https://doi.org/10.5281/zenodo.3954406"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
