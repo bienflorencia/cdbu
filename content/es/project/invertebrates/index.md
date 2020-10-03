@@ -6,7 +6,7 @@ title = "Invertebrados"
 date = 2019-04-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Base de datos de especies de invertebrados nativas del Uruguay (**no empezado**)."
+summary = "Datos primarios de especies de invertebrados del Uruguay (**próximamente**)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -48,7 +48,7 @@ url_code = ""
 
 
 {{% alert warning %}}
-El desarrollo de la base de datos de invertebrados comenzará en 2020
+El desarrollo de la base de datos de invertebrados comenzará en 2021.
 {{% /alert %}}
 
 

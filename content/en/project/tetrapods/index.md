@@ -6,7 +6,7 @@ title = "Vertebrates"
 date = 2019-04-23T00:00:00
 
 # Project summary to display on homepage.
-summary = "A comprehensive database of tetrapod species occurrence records native from Uruguay"
+summary = "Primary data from native tetrapod species in Uruguay"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/biodiversidata"}]
+links = [{icon_pack = "ai", icon="open-data", name="Data", url = "https://doi.org/10.5281/zenodo.3685897"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -63,7 +63,10 @@ We here present a comprehensive database of tetrapod occurrence records native f
   
 ### Database
 
-The dataset is available at our Zenodo repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2650169.svg)](https://doi.org/10.5281/zenodo.2650169)
+The dataset is available at our Zenodo repository 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3685897.svg)](https://doi.org/10.5281/zenodo.3685897)
+
 It may continue to be updated with new records periodically; check the Zenodo repository for the latest version.  
 
 ###### *Last Updated: 20/06/2019*

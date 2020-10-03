@@ -6,7 +6,7 @@ title = "Plants"
 date = 2019-04-22T00:00:00
 
 # Project summary to display on homepage.
-summary = "Database of plant species native from Uruguay (**in process**)."
+summary = "Primary data from vascular plant species in Uruguay"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "ai", icon="doi", name="Data", url = "https://doi.org/10.5281/zenodo.3954406"}]
+links = [{icon_pack = "ai", icon="open-data", name="Data", url = "https://doi.org/10.5281/zenodo.3954406"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
