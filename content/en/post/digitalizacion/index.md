@@ -37,15 +37,15 @@ projects = [""]
 
 +++
 
-On the first days of the year we were digitizing specimens from the Herbarium of the **National Natural History Museum of Uruguay**. This is the largest collection of plant species in the country, with more than **80,000** herborized samples, of collections dating from early 1800's to the present. It brings together the legacy of great botanists of the natural history of our country, such as José Arechavaleta, Diego Legrand y Bernardo Rosengurtt, amongst others.  
+In the first days of this year we were digitizing specimens from the herbarium of the **National Museum of Natural History of Uruguay**. This is the largest collection of plants in the country, with more than **80,000** herborized specimens, from collections that date from the beginning of 1800 to the present. It gathers the legacy of great botanists of the natural history of our country such as José Arechavaleta, Diego Legrand and Bernardo Rosengurtt, among others.
 
-The digitization work included the scanning in high quality of more than **600** samples, using the museum’s *HerbScan* system, and the later transcription of the data for each sample. We extracted data related to the species, collection locality and date, and also about the collectors and the species identifiers. These data are now being checked and adapted following international standards for biodiversity data (Darwin Core). Together with the more than 10 thousand plant occurrence records we have collated with Biodiversidata, we will use them to answer research questions related to the distribution of floras in the national territory. We look forward to making all the material available and open in the short term and hope to keep digitizing new records.  
+The work consisted in scanning more than **600** specimens in high quality, using the *HerbScan* system that the museum has, and in the subsequent transcription of the data of each specimen. Data were extracted regarding the species, location and date of collection, and also about who collected the sample and who identified the species. These data are being reviewed and adapted according to international standards for biodiversity data (Darwin Core). They will be added to the more than 10,000 occurrence records of plants that we have gathered with Biodiversidata and are using to answer research questions about the distribution of floras in the national territory. We hope to be able to make all the material available in open format soon and will also seek to continue the work of digitisation.   
 
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/gp/biodiversidata/18cM43" title="Digitalización Herbario MNHN"><img src="https://live.staticflickr.com/65535/49515875877_9e9ae559a3_z.jpg" width="640" height="427" alt="Digitalización Herbario MNHN"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
 
-We would like to thank the Museum, specially to Meica Valdivia for her knowledge and kind collaboration, and to the director Javier González for the great disposal and openness.   
+We would like to thank the Museum, especially Meica Valdivia for their knowledge and kind collaboration, and its director Javier González for his great willingness and openness.     
 
 <br>
 #### For more information about this institution with more than 180 years of history in the country, we invite you to visit their [website](https://www.mnhn.gub.uy), drop by their new [house](https://goo.gl/maps/FVeKbxjsuHnsq1Q76) and check their [Facebook](https://www.facebook.com/MNHNUruguay), [Twitter](https://twitter.com/mnhn_uy) and [Instagram](https://www.instagram.com/mnhn_uy/).
