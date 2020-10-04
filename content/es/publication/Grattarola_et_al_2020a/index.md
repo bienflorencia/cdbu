@@ -3,7 +3,7 @@ title = "Biodiversidata: Un nuevo conjunto de datos sobre la diversidad de espec
 date = 2020-10-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["1florencia", "andres-gonzalez", "patimai", "Laura Cappuccio", "César Fagúndez-Pachón", "Florencia Rossi", "Franco Teixeira de Mello", "Lucía Urtado", "2daniel"]
+authors = ["1florencia", "andres-gonzalez", "patimai", "Laura Cappuccio", "Cesar Fagundez-Pachon", "Florencia Rossi", "Franco Teixeira de Mello", "Lucia Urtado", "2daniel"]
 
 # Publication type.
 # Legend:
