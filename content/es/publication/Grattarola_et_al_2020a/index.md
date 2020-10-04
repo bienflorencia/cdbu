@@ -1,9 +1,9 @@
 +++
-title = "Biodiversidata: Una Base de Datos Sobre Biodiversidad de Acceso Abierto para el Uruguay"
-date = 2019-06-20T00:00:00
+title = "Biodiversidata: Un nuevo conjunto de datos sobre la diversidad de especies de plantas vasculares en el Uruguay"
+date = 2020-10-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["1florencia", "german", "ines", "noelia", "enrique", "javier", "danielH", "gabriel", "raul", "jaml", "danielN", "analaura", "lucia", "2daniel"]
+authors = ["1florencia", "andres-gonzalez", "patimai", "Laura Cappuccio", "César Fagúndez-Pachón", "Florencia Rossi", "Franco Teixeira de Mello", "Lucía Urtado", "2daniel"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["1florencia", "german", "ines", "noelia", "enrique", "javier", "danie
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Biodiversity Data Journal, 7*.e36226"
+publication = "*Biodiversity Data Journal*"
 publication_short = ""
 
 # Abstract.
@@ -29,7 +29,7 @@ abstract = "El territorio continental y marino de Uruguay se caracteriza por una
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.3897/BDJ.7.e36226"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -72,7 +72,7 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "[**BDJ**](https://doi.org/10.3897/BDJ.7.e36226.figure2)"
+  caption = "Photo by **Florencia Grattarola** on [iNaturalist]](https://www.inaturalist.org/observations/37853981)"
 
 
   # Focal point (optional)
@@ -81,3 +81,4 @@ url_source = ""
 
 +++
 
+**In press**

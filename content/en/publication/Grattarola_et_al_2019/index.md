@@ -72,7 +72,7 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "[**BDJ**](https://doi.org/10.3897/BDJ.7.e36226.figure2)"
+  caption = "Photo by **Florencia Grattarola** on [iNaturalist]](https://www.inaturalist.org/observations/37853964)"
 
 
   # Focal point (optional)

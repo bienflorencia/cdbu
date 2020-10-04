@@ -1,6 +1,6 @@
 +++
 title = "Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay"
-date = 2019-07-30T00:00:00
+date = 2019-07-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["1florencia", "2daniel"]

@@ -1,9 +1,9 @@
 +++
-title = "Biodiversidata: An Open-Access Biodiversity Database for Uruguay"
-date = 2019-06-20T00:00:00
+title = "Biodiversidata: A novel dataset for the vascular plant species diversity in Uruguay"
+date = 2020-10-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["1florencia", "german", "ines", "noelia", "enrique", "javier", "danielH", "gabriel", "raul", "jaml", "danielN", "analaura", "lucia", "2daniel"]
+authors = ["1florencia", "andres-gonzalez", "patimai", "Laura Cappuccio", "César Fagúndez-Pachón", "Florencia Rossi", "Franco Teixeira de Mello", "Lucía Urtado", "2daniel"]
 
 # Publication type.
 # Legend:
@@ -19,17 +19,17 @@ authors = ["1florencia", "german", "ines", "noelia", "enrique", "javier", "danie
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Biodiversity Data Journal, 7*.e36226"
+publication = "*Biodiversity Data Journal*"
 publication_short = ""
 
 # Abstract.
-abstract = "The continental and marine territories of Uruguay are characterised by a rich convergence of multiple biogeographic ecoregions of the Neotropics, making this country a peculiar biodiversity spot. However, despite the biological significance of Uruguay for the South American subcontinent, the distribution of biodiversity patterns in this country remain poorly understood, given the severe gaps in available records of geographic species distributions. Currently, national biodiversity datasets are not openly available and, thus, a dominant proportion of the primary biodiversity data produced by researchers and institutions across Uruguay remains highly dispersed and difficult to access for the wider scientific and environmental community. In this paper, we aim to fill this gap by developing the first comprehensive, open-access database of biodiversity records for Uruguay (Biodiversidata), which is the result of a large-scale collaboration involving experts working across the entire range of taxonomic diversity found in the country. As part of the first phase of Biodiversidata, we here present a comprehensive database of tetrapod occurrence records native from Uruguay, with the latest taxonomic updates. The database provides primary biodiversity data on extant Amphibia, Reptilia, Aves and Mammalia species recorded within the country. The total number of records collated is 69,380, spanning 673 species and it is available at the Zenodo repository: https://doi.org/10.5281/zenodo.2650169. This is the largest and most geographically and taxonomically comprehensive database of Uruguayan tetrapod species available to date and it represents the first open repository for the country."
+abstract = "South America hosts some of the world’s most prominent biodiversity hotspots. Yet, Uruguay – a country where multiple major ecosystems converge – ranks amongst the countries with the lowest levels of available digital biodiversity data in the continent. Such prevalent data scarcity has significantly undermined our ability to progress towards evidence-based conservation actions – a critical limitation for a country with a strong focus on agricultural industries and only 1.3% of the land surface guarded by protected areas. Under today’s rapid biodiversity loss and environmental changes, the need for open-access biodiversity data is more pressing than ever before. To address this national issue, Biodiversidata – Uruguay’s first Consortium of Biodiversity Data – has recently emerged with the aim of assembling a constantly growing database for the biodiversity of this country. While the first phase of the project targeted vertebrate biodiversity, the second phase presented in this paper spans the biodiversity of plants. As part of the second phase of the Biodiversidata initiative, we present the first comprehensive open-access species-level database of the vascular plant diversity recorded in Uruguay to date (i.e.: all species for which data is currently available and species presence has been confirmed). It contains 12,470 occurrence records from across 1,648 species and 160 families, which roughly represents 60% of the total recorded flora of Uruguay. The primary biodiversity data include extant native and introduced species from the lycophytes, ferns, gymnosperms, and angiosperms groups. Records were collated from multiple sources including data available in the peer-reviewed scientific literature, institutional scientific collections, and datasets contributed by members of the Biodiversidata initiative. The complete database can be accessed at the Zenodo repository: doi.org/10.5281/zenodo.3954406"
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.3897/BDJ.7.e36226"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,9 +55,9 @@ projects = ['']
 slides = ""
 
 # Links (optional).
-url_pdf = "/files/BDJ_article_36226.pdf"
+url_pdf = ""
 url_code = "https://github.com/bienflorencia/rBiodiversidata"
-url_dataset = "https://doi.org/10.5281/zenodo.2650169"
+url_dataset = "https://doi.org/10.5281/zenodo.3954406"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -72,7 +72,7 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "[**BDJ**](https://doi.org/10.3897/BDJ.7.e36226.figure2)"
+  caption = "Photo by **Florencia Grattarola** on [iNaturalist]](https://www.inaturalist.org/observations/37853981)"
 
 
   # Focal point (optional)
@@ -81,3 +81,4 @@ url_source = ""
 
 +++
 
+**In press**
