@@ -56,7 +56,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/bienflorencia/rBiodiversidata"
+url_code = "https://github.com/bienflorencia/rBiodiversidata/tree/master/Plants%20Data%20Paper%20Scripts"
 url_dataset = "https://doi.org/10.5281/zenodo.3954406"
 url_project = ""
 url_slides = ""
@@ -72,7 +72,7 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by **Florencia Grattarola** on [iNaturalist]](https://www.inaturalist.org/observations/37853981)"
+  caption = "Photo by **Florencia Grattarola** on [iNaturalist](https://www.inaturalist.org/observations/37853981)"
 
 
   # Focal point (optional)
