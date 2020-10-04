@@ -26,7 +26,7 @@ projects = [""]
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by [Florencia Grattarola](flograttarola.com)"
+  caption = "Photo by [Florencia Grattarola](https://flograttarola.com/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
