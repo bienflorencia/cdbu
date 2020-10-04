@@ -56,7 +56,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "/files/BDJ_article_36226.pdf"
-url_code = "https://github.com/bienflorencia/rBiodiversidata"
+url_code = "https://github.com/bienflorencia/rBiodiversidata/tree/master/Tetrapods%20Data%20Paper%20Scripts"
 url_dataset = "https://doi.org/10.5281/zenodo.2650169"
 url_project = ""
 url_slides = ""
@@ -72,7 +72,7 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by **Florencia Grattarola** on [iNaturalist]](https://www.inaturalist.org/observations/37853964)"
+  caption = "Photo by **Florencia Grattarola** on [iNaturalist](https://www.inaturalist.org/observations/37853964)"
 
 
   # Focal point (optional)
