@@ -21,7 +21,7 @@ summary = ""
 projects = ["tetrapods"]
 
 # links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidata.pdf"}]
-links = [{name = "Data Paper", url = "https://doi.org/10.3897/BDJ.7.e36226"}]
+links = [{name = "Download the Data Paper", url = "https://doi.org/10.3897/BDJ.7.e36226"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

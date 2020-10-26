@@ -21,6 +21,7 @@ summary = ""
 projects = ["plants"]
 
 # links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidata.pdf"}]
+links = [{name = "Descargá el Data Paper", url = "https://doi.org/10.3897/BDJ.8.e56850"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -41,8 +42,11 @@ Nuestro segundo artículo de datos ha sido publicado en el **Biodiversity Data J
 
 ***
 
-Encontrá la publicación acá: [**A novel dataset for the vascular plant species diversity in Uruguay**](https://doi.org/10.3897/BDJ.8.e56850)  
+:page_with_curl: Encontrá la publicación acá: [**A novel dataset for the vascular plant species diversity in Uruguay**](https://doi.org/10.3897/BDJ.8.e56850)  
 
-Explorá nuestra [Base de Datos de Plantas](https://biodiversidata.org/es/project/plants/) en la sección de [Recursos](https://biodiversidata.org/es/#projects) y descargá el conjunto de datos completo y la listas de especies.  
+:open_file_folder: Explorá nuestra [**Base de Datos de Plantas**](https://biodiversidata.org/es/project/plants/) en la sección de [Recursos](https://biodiversidata.org/es/#projects) y descargá el conjunto de datos completo y la lista de especies.  
+
+:computer: Chequeá nuestros [**Scripts**](https://github.com/bienflorencia/rBiodiversidata) en GitHub, usados para limpiar y estandarizar los datos, y para preparar las figuras del manuscrito.  
+
 
 
