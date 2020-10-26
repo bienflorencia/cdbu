@@ -19,7 +19,7 @@ authors = ["1florencia", "2daniel"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Boletín de la Sociedad Zoológica del Uruguay, 28*(1)"
+publication = "*Boletín de la Sociedad Zoológica del Uruguay*, **28**(1)"
 publication_short = "Bol. Soc. Zool. Uruguay"
 
 # Abstract.

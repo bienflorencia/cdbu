@@ -19,7 +19,7 @@ authors = ["1florencia", "2daniel"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*Biodiversity Information Science and Standards, 3*(e37715)"
+publication = "*Biodiversity Information Science and Standards*, **3**:e37715"
 publication_short = "BISS"
 
 # Abstract.

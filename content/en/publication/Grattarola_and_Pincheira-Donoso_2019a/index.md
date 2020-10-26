@@ -19,7 +19,7 @@ authors = ["1florencia", "2daniel"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Boletín de la Sociedad Zoológica del Uruguay, 28*(1)"
+publication = "*Boletín de la Sociedad Zoológica del Uruguay*, **28**(1)"
 publication_short = "Bol. Soc. Zool. Uruguay"
 
 # Abstract.
@@ -29,7 +29,7 @@ abstract = "Data-sharing has become a key issue in modern science, with numerous
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.26462/28.1.1"
 
 # Is this a featured publication? (true/false)
 featured = false

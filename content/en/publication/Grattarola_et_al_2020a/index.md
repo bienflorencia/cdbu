@@ -19,7 +19,7 @@ authors = ["1florencia", "andres-gonzalez", "patimai", "Laura Cappuccio", "Cesar
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Biodiversity Data Journal*"
+publication =  "*Biodiversity Data Journal*, **8**:e56850"
 publication_short = ""
 
 # Abstract.
@@ -29,7 +29,7 @@ abstract = "South America hosts some of the world’s most prominent biodiversit
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.3897/BDJ.8.e56850"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,7 +55,7 @@ projects = ['']
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/BDJ_article_56850.pdf"
 url_code = "https://github.com/bienflorencia/rBiodiversidata/tree/master/Plants%20Data%20Paper%20Scripts"
 url_dataset = "https://doi.org/10.5281/zenodo.3954406"
 url_project = ""
@@ -80,5 +80,3 @@ url_source = ""
   focal_point = "TopRight"
 
 +++
-
-**In press**

@@ -19,7 +19,7 @@ authors = ["1florencia", "andres-gonzalez", "patimai", "Laura Cappuccio", "Cesar
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication =  "*Biodiversity Data Journal*, **8.**:e56850"
+publication =  "*Biodiversity Data Journal*, **8**:e56850"
 publication_short = ""
 
 # Abstract.
