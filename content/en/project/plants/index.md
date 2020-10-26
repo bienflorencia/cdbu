@@ -63,7 +63,7 @@ Here we present the first comprehensive open-access species-level database of th
 <th align="right">Grupo</th>
 <th align="right">Number of Records</th>
 <th align="right">Number of Species</th>
-<th align="right">Registros con Fecha (%)</th>
+<th align="right">Records with Date (%)</th>
 <th align="right">Records from the last 30 years (%)</th>
 <th align="right">Records with Coordinates (%)</th>
 </tr>
@@ -170,4 +170,4 @@ Download the list of species including scientific and vernacular names, and esta
 Grattarola F, González A, Mai P, Cappuccio L, Fagúndez-Pachón C, Rossi
 F, Teixeira de Mello F, Urtado L, Pincheira-Donoso D (2020)
 Biodiversidata: A novel dataset for the vascular plant species diversity
-in Uruguay. Biodiversity Data Journal (*In press*)
+in Uruguay. *Biodiversity Data Journal* 8: e56850. https://doi.org/10.3897/BDJ.8.e56850
