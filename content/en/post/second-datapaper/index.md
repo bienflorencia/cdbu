@@ -21,6 +21,7 @@ summary = ""
 projects = ["plants"]
 
 # links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidata.pdf"}]
+links = [{name = "Data Paper", url = "https://doi.org/10.3897/BDJ.8.e56850"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -39,10 +40,12 @@ projects = ["plants"]
 
 Our second data article has been published in the **Biodiversity Data Journal**. It derives from the collaborative work of the team members, and represents the second complete and open-access database of biodiversity records from Uruguay. The *Data Paper* includes primary biodiversity occurrence records of vascular plant species and a large number of data descriptors that enrich each observation/collection of organisms.
 
-
 ***
 
-Find the publication here: [**A novel dataset for the vascular plant species diversity in Uruguay**](https://doi.org/10.3897/BDJ.8.e56850)  
+## :page_with_curl: Find the publication here: [**A novel dataset for the vascular plant species diversity in Uruguay**](https://doi.org/10.3897/BDJ.8.e56850)  
 
-Explore our [Plants Database](https://biodiversidata.org/es/project/plants/) in the [Resources](https://biodiversidata.org/es/#projects) section and download the complete dataset and species lists.  
+## :file_cabinet: Explore our [**Plants Database**](https://biodiversidata.org/es/project/plants/) in the [Resources](https://biodiversidata.org/es/#projects) section and download the complete dataset and species lists.  
+
+## :computer: Check the [**Scripts**]() used to clean and standardised the data, and to prepare the paper's figures.  
+
 
