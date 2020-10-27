@@ -44,7 +44,7 @@ Our second data article has been published in the **Biodiversity Data Journal**.
 
 :page_with_curl: Find the publication here: [**A novel dataset for the vascular plant species diversity in Uruguay**](https://doi.org/10.3897/BDJ.8.e56850)  
 
-:open_file_folder: Explore our [**Plants Database**](https://biodiversidata.org/es/project/plants/) in the [Resources](https://biodiversidata.org/es/#projects) section and download the complete dataset and species lists.  
+:open_file_folder: Explore our [**Plants Database**](https://biodiversidata.org/en/project/plants/) in the [Resources](https://biodiversidata.org/en/#projects) section and download the complete dataset and species lists.  
 
 :computer: Check our [**Scripts**](https://github.com/bienflorencia/rBiodiversidata) in GitHub, used to clean and standardised the data, and to prepare the paper's figures.  
 
