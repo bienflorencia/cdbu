@@ -1,6 +1,6 @@
 +++
 title = "Biodiversidata's first manuscript"
-subtitle = "Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity."
+subtitle = "Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity"
 
 date = 2020-12-16T00:00:00  # Schedule a publish date
 lastmod = 2020-12-16T00:00:00 # Date last modified
@@ -43,11 +43,11 @@ This is the first manuscript we publish with Biodiversidata that uses the data c
 
 By analysing these data we found that, despite gathering an enormous amount of information on where species are distributed in Uruguay, these data were spatially, taxonomically and spatially biased. Alarmingly, more than 95% of Uruguay's surface remains insufficiently sampled. In order to be able to assess changes in biodiversity and make better evidence-based decisions, it is urgent to increase the data that allows us to understand this diversity.
 
+![](/img/post_iNatUy_files-1-1.png)
 
-<a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig1_HTML.png?as=webp" width="260" height="640" alt="Figure 1"></a>
+<a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig1_HTML.png?as=webp"></a>
 
 ***
-
 
 
 Check out the [Vertebrates Database](https://biodiversidata.org/en/project/tetrapods/).  
