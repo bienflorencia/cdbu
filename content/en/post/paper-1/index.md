@@ -42,7 +42,7 @@ links = [{name = "Download the Paper", url = "https://doi.org/10.1038/s41598-020
 
 <figure>
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp" alt="Figure 1" style="width:100%"/>
-<figcaption align = "center"><b>Fig.4 - Areas for future sampling effort prioritisation. Priority categories for amphibians (a), reptiles (b), birds (c) and mammals (d) were calculated using species accumulation curves (SACs). Scale: Null (i.e., grid-cells where mean slope of the last 10% of SACs was lower or equal to 0.05), ‘Low’ (between 0.05 and 0.25), ‘Medium’ (between 0.25 and 1), ‘High’ (grid-cells where the sampling effort was so low that it was not possible to calculate SACs), and ‘Very High’ (i.e., grid-cells where no records were found). All maps in 25 × 25 km grid-cell resolution. Projection WGS1984.</b></figcaption>
+<figcaption align = "center"><small>Fig.4 - Areas for future sampling effort prioritisation. Priority categories for amphibians (a), reptiles (b), birds &#40;c) and mammals (d) were calculated using species accumulation curves (SACs). Scale: Null (i.e., grid-cells where mean slope of the last 10% of SACs was lower or equal to 0.05), ‘Low’ (between 0.05 and 0.25), ‘Medium’ (between 0.25 and 1), ‘High’ (grid-cells where the sampling effort was so low that it was not possible to calculate SACs), and ‘Very High’ (i.e., grid-cells where no records were found). All maps in 25 × 25 km grid-cell resolution. Projection WGS1984.</small></figcaption>
 </figure>
 
 ***
