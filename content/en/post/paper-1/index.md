@@ -38,15 +38,11 @@ links = [{name = "Download the Paper", url = "https://doi.org/10.1038/s41598-020
 
 +++
 
-This is the first manuscript we publish with Biodiversidata that uses the data collated by our initiative.
+This is the first manuscript we publish with Biodiversidata that uses the data collated by our initiative. We found that, despite gathering an enormous amount of information on where species are distributed in Uruguay, these data were spatially, taxonomically and spatially biased. Alarmingly, more than 95% of Uruguay's surface remains insufficiently sampled. In order to be able to assess changes in biodiversity and make better evidence-based decisions, it is urgent to increase the data available that can allow us to understand this diversity.
 
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp" alt="Figure 1" style="width:400px;"/>
+**Figure 4**. Areas for future sampling effort prioritisation. Priority categories for amphibians (a), reptiles (b), birds (c) and mammals (d) were calculated using species accumulation curves (SACs). Scale: Null (i.e., grid-cells where mean slope of the last 10% of SACs was lower or equal to 0.05), ‘Low’ (between 0.05 and 0.25), ‘Medium’ (between 0.25 and 1), ‘High’ (grid-cells where the sampling effort was so low that it was not possible to calculate SACs), and ‘Very High’ (i.e., grid-cells where no records were found). All maps in 25 × 25 km grid-cell resolution. Projection WGS1984. Maps generated using ArcGIS 10.6 (https://desktop.arcgis.com).
 
-By analysing these data we found that, despite gathering an enormous amount of information on where species are distributed in Uruguay, these data were spatially, taxonomically and spatially biased. Alarmingly, more than 95% of Uruguay's surface remains insufficiently sampled. In order to be able to assess changes in biodiversity and make better evidence-based decisions, it is urgent to increase the data that allows us to understand this diversity.
-
-![](/img/post_iNatUy_files-1-1.png)
-
-<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig1_HTML.png?as=webp" alt="Figure 1" style="width:200px;"/>
 ***
-
 
 Check out the [Vertebrates Database](https://biodiversidata.org/en/project/tetrapods/).  
