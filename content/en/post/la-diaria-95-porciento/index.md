@@ -21,7 +21,7 @@ summary = ""
 projects = ["tetrapods"]
 
 # links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidata.pdf"}]
-links = [{name = "Access the press article", url = "https://ladiaria.com.uy/ciencia/articulo/2021/2/mas-de-95-de-la-superficie-de-uruguay-permanece-con-muestreos-de-biodiversidad-insuficientes"}]
+links = [{name = "Access the article", url = "https://ladiaria.com.uy/ciencia/articulo/2021/2/mas-de-95-de-la-superficie-de-uruguay-permanece-con-muestreos-de-biodiversidad-insuficientes"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
@@ -40,7 +40,4 @@ links = [{name = "Access the press article", url = "https://ladiaria.com.uy/cien
 
 **The results from our first research paper were featured in the press**. Journalist Leo Lagos interviewed us about the manuscript *Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity* in this article for the Science section of La Diaria newspaper.
 
-<iframe
-  src="https://ladiaria.com.uy/ciencia/articulo/2021/2/mas-de-95-de-la-superficie-de-uruguay-permanece-con-muestreos-de-biodiversidad-insuficientes"
-  style="width:100%; height:300px;">
-</iframe>
+![](/img/ladiaria-hotspots.jpeg)

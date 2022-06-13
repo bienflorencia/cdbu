@@ -9,7 +9,7 @@ draft = false  # Display this post? (true/false)
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
 
-tags = ["manuscript", "data use"]
+tags = ["news", "la diaria"]
 summary = ""
 
 # Projects (optional).
@@ -21,7 +21,7 @@ summary = ""
 projects = ["tetrapods"]
 
 # links = [{name = "See the Presentation", url = "/files/PresentationBiodiversidata.pdf"}]
-links = [{name = "Download the Paper", url = "https://doi.org/10.1038/s41598-020-79074-8"}]
+links = [{name = "Accedé a la nota", url = "https://ladiaria.com.uy/ciencia/articulo/2021/2/mas-de-95-de-la-superficie-de-uruguay-permanece-con-muestreos-de-biodiversidad-insuficientes"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
@@ -40,7 +40,4 @@ links = [{name = "Download the Paper", url = "https://doi.org/10.1038/s41598-020
 
 **Los resultados de nuestro primer trabajo de investigación aparecieron en la prensa**. El periodista Leo Lagos nos entrevistó sobre el manuscrito *Múltiples tipos de hotspots de biodiversidad y los desafíos de la escasez de datos abiertos* en este artículo para la sección de Ciencia del periódico La Diaria.
 
-<iframe
-  src="https://ladiaria.com.uy/ciencia/articulo/2021/2/mas-de-95-de-la-superficie-de-uruguay-permanece-con-muestreos-de-biodiversidad-insuficientes"
-  style="width:100%; height:300px;">
-</iframe>
+![](/img/ladiaria-hotspots.jpeg)
