@@ -40,4 +40,5 @@ links = [{name = "Accedé a la nota", url = "https://ladiaria.com.uy/ciencia/art
 
 **Los resultados de nuestro primer trabajo de investigación aparecieron en la prensa**. El periodista Leo Lagos nos entrevistó sobre el manuscrito *Múltiples tipos de hotspots de biodiversidad y los desafíos de la escasez de datos abiertos* en este artículo para la sección de Ciencia del periódico La Diaria.
 
+
 ![](/img/ladiaria-hotspots.jpeg)

@@ -38,6 +38,7 @@ links = [{name = "Access the article", url = "https://ladiaria.com.uy/ciencia/ar
 
 +++
 
-**The results from our first research paper were featured in the press**. Journalist Leo Lagos interviewed us about the manuscript *Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity* in this article for the Science section of La Diaria newspaper.
+**The results from our first research paper were featured in the press**. Journalist Leo Lagos interviewed us about the manuscript *Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity* in this article for the Science section of La Diaria newspaper.  
+
 
 ![](/img/ladiaria-hotspots.jpeg)
