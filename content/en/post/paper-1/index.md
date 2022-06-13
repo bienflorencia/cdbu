@@ -45,8 +45,7 @@ By analysing these data we found that, despite gathering an enormous amount of i
 
 ![](/img/post_iNatUy_files-1-1.png)
 
-<a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig1_HTML.png?as=webp"></a>
-
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig1_HTML.png?as=webp" alt="Figure 1" style="width:200px;"/>
 ***
 
 
