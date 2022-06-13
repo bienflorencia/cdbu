@@ -33,9 +33,9 @@ subtitle = "Biodiversidata generates a broad range of resources including public
     name = "Scripts"
     tag = "scripts"
 
-    [[content.filter_button]]
-      name = "Training"
-      tag = "training"
+  [[content.filter_button]]
+    name = "Training"
+    tag = "training"
 
 
 [design]
