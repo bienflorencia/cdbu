@@ -10,7 +10,7 @@ summary = "Extending knowledge on biodiversity data quality and publication in t
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["databases"]
+tags = ["training"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -46,8 +46,8 @@ links = [{name="Videos", url = "https://www.youtube.com/channel/UCIuArY_LJaDt0dA
 
 **The objective of this project is to increase the availability of high-quality biodiversity data from the Spanish-speaking community through the GBIF network**. The specific goal is to improve capacity in the participant countries and in the Latin American region in general, through two components:
 
-  - Training Series: a total of six talks and four workshops in Spanish, about Data Quality, Data Cleaning, and Data Publication using the IPT LAC. We will produce new materials and reutilize others in Spanish from other GBIF projects and programmes (i.e., Data Quality Best Practices document by CESP project CESP2020-018, and the GBIF “Guía de uso básico de OpenRefine”). All training will be open to the Spanish-speaking community and recorded for future use.
-  - Documentation:  
+  - **Training Series**: a total of six talks and four workshops in Spanish, about Data Quality, Data Cleaning, and Data Publication using the IPT LAC. We will produce new materials and reutilize others in Spanish from other GBIF projects and programmes (i.e., Data Quality Best Practices document by CESP project CESP2020-018, and the GBIF “Guía de uso básico de OpenRefine”). All training will be open to the Spanish-speaking community and recorded for future use.
+  - **Documentation**:  
   1. Document and video (in English and Spanish) with guidelines on how to use the regional IPT installation, with specific sections for Admin users (targeted at regional representatives and node managers) and for regular users, including practical how-to’s and expected administrative workflows.  
   2. Document describing the training model used in this project (in English and Spanish).  
 
