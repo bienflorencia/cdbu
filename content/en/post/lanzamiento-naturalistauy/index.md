@@ -39,7 +39,7 @@ links = [{name = "Watch the launch", url = "https://www.youtube.com/embed/4YIEEY
 
 +++
 
-On Monday 13th December at 18hs was the launch of NaturalistaUY, the national iNaturalist site in Uruguay, a collaboration between Biodiversidata and JULANA, with the support of the National Geographic Society.
+On Monday 13th of December at 18hs was the launch of NaturalistaUY, the national iNaturalist site in Uruguay, a collaboration between Biodiversidata and JULANA, with the support of the National Geographic Society.
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/biodiversidata/albums/72177720299766414" title="Lanzamiento de NaturalistaUY"><img src="https://live.staticflickr.com/65535/52143488903_3eaa8abb5c_z.jpg" width="640" height="480" alt="Lanzamiento de NaturalistaUY"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
